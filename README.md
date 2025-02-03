@@ -2,30 +2,34 @@
 -  Musk conspiracy theory about Covid origin  
 
 > Did you know that USAID, using YOUR tax dollars, funded bioweapon research, including COVID-19, that killed millions of people?  
+
 https://x.com/elonmusk/status/1886129005759262964 | https://archive.ph/f44RY  
 2025-02-02
 
 -  Musk about USAID  
 
 > We spent the weekend feeding USAID into the wood chipper. 
+
 https://x.com/elonmusk/status/1886307316804263979 | https://archive.ph/WXMbA
 2025-02-03
 
 > USAID is a criminal organization. 
 > 
 > Time for it to die.  
+
 https://x.com/elonmusk/status/1886102414194835755 | https://archive.ph/jDzGk
 
 
 > USAID was a viper’s nest of radical-left marxists who hate America  
+
 https://x.com/elonmusk/status/1886098373251301427 | https://archive.ph/YoieZ
 
 ### Access to data  
 
 > Senior USAID security officials put on leave after refusing Musk’s DOGE access to agency systems  
+
 2025-02-02
-https://edition.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/index.html | https://archive.ph/l2DFO
-https://archive.ph/Jt7T0
+https://edition.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/index.html | https://archive.ph/l2DFO updated https://archive.ph/Jt7T0
 
 
 
@@ -40,20 +44,20 @@ Disappeared Datasets
 Before: https://web.archive.org/web/20250129035310/https:/www.cdc.gov/yrbs/index.html
 After: https://www.cdc.gov/yrbs/index.html
 
-https://targethiv.org  
+https://targethiv.org   
 Before and after: https://archive.md/https://targethiv.org/  
 
 CDC Atlas of disease  
 https://www.cdc.gov/nchhstp/about/atlasplus.html
 
-Social vulnerability index
+Social vulnerability index  
 https://www.atsdr.cdc.gov/community-stress-resource-center/php/resources/social-vulnerability-index.html
 
-Youth risk behaviour surveillance
+Youth risk behaviour surveillance  
 https://www.cdc.gov/yrbs/index.html
 
 
-Archived
+All datasets, archived  
 https://archive.org/download/20250128-cdc-datasets
 
 ### MMWR  
@@ -91,6 +95,13 @@ BIOLEAPS archived
 https://new.nsf.gov/funding/opportunities/bio-leaps-leading-culture-change-through-professional-societies/505994/nsf22-542 | https://archive.md/R95DV  
 
 
+## Other science 
+
+https://www.science.org/content/article/health-agencies-purge-trump-targeted-programs-and-websites | https://archive.md/IIgJC
+
+
+
+# Access to critical data
 
 Musk's DOGE has taken control of U.S. Treasury Payments System
 https://bsky.app/profile/wyden.senate.gov/post/3lh5ejpwncc23 | https://archive.md/IFumM
@@ -103,19 +114,26 @@ https://bsky.app/profile/wyden.senate.gov/post/3lh5ejpwncc23 | https://archive.m
 https://www.washingtonpost.com/business/2025/01/31/elon-musk-treasury-department-payment-systems/ | https://archive.md/oYYRT
 2025-01-31
 
-> Elon Musk’s team has gotten access to the Treasury Department’s payments system.  
-https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html | https://archive.md/NUdlu
+https://archive.md/k5mXR
+> Typically, only a small group of career employees control the payment systems, and former officials have said it is extremely unusual for anyone connected to political appointees to access it. 
 2025-02-01
 
 
-https://www.science.org/content/article/health-agencies-purge-trump-targeted-programs-and-websites | https://archive.md/IIgJC
+> Elon Musk’s team has gotten access to the Treasury Department’s payments system.  
+https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html | https://archive.md/NUdlu | https://archive.md/dh1OE (updated)
+2025-02-01
 
+> Musk aides gain access to sensitive Treasury Department payment system
+The access — granted by Scott Bessent, Trump’s newly confirmed treasury secretary —- comes after the ousting of the agency’s top career official.
+
+> Elon Musk’s Team Now Has Full Access to Treasury’s Payments System
 
 > Engineers between 19 and 24, most linked to Musk’s companies, are playing a key role as he seizes control of federal infrastructure.  
 https://www.wired.com/story/elon-musk-government-young-engineers/ | https://archive.md/QYBhK
 2025-02-02
 
-
+# Other 
+ 
 Disparition portraits de femmes au National Cryptologic Museum
 https://bsky.app/profile/genmhayden.bsky.social/post/3lh6a65lgx226
 
