@@ -40,13 +40,46 @@ Disappeared Datasets
 Before: https://web.archive.org/web/20250129035310/https:/www.cdc.gov/yrbs/index.html
 After: https://www.cdc.gov/yrbs/index.html
 
+https://targethiv.org  
+Before and after: https://archive.md/https://targethiv.org/  
+
+CDC Atlas of disease  
+https://www.cdc.gov/nchhstp/about/atlasplus.html
+
+Social vulnerability index
+https://www.atsdr.cdc.gov/community-stress-resource-center/php/resources/social-vulnerability-index.html
+
+Youth risk behaviour surveillance
+https://www.cdc.gov/yrbs/index.html
+
+
 Archived
 https://archive.org/download/20250128-cdc-datasets
+
+### MMWR  
+
+https://www.salon.com/2025/02/02/administrations-communication-freeze-restricted-access-to-critical-bird-flu-information/ | 
+
+> One of the studies would reveal whether veterinarians who treat cattle have been unknowingly infected by the bird flu virus. Another report documents cases in which people carrying the virus might have infected their pet cats.  
+https://kffhealthnews.org/news/article/cdc-trump-mmwr-bird-flu-studies-blocked-meddling/ | https://archive.md/Yyqaz
+2025-01-30
+
+
+
+
 
 ## USDA and climate change  
 
 > Agriculture Department employees have been ordered to delete landing pages discussing climate change across agency websites and document climate change references for further review  
 https://www.politico.com/news/2025/01/31/usda-climate-change-websites-00201826 | https://archive.md/TLQNX
+
+## NSF and climate change
+
+> The Organismal Response to Climate Change grant call has been cancelled.   
+https://bsky.app/profile/stairwaytokevin.bsky.social/post/3lh56pxkehs2m
+
+https://new.nsf.gov/funding/opportunities/orcc-organismal-response-climate-change/505963/nsf25-504
+
 
 ## DEIA  
 
@@ -55,7 +88,8 @@ https://x.com/DOGE/status/1885420298138247458 | https://archive.ph/Fzoq4
 
 BIOLEAPS archived
 2025-01-23
-https://new.nsf.gov/funding/opportunities/bio-leaps-leading-culture-change-through-professional-societies/505994/nsf22-542
+https://new.nsf.gov/funding/opportunities/bio-leaps-leading-culture-change-through-professional-societies/505994/nsf22-542 | https://archive.md/R95DV  
+
 
 
 Musk's DOGE has taken control of U.S. Treasury Payments System
@@ -87,7 +121,7 @@ https://bsky.app/profile/genmhayden.bsky.social/post/3lh6a65lgx226
 
 
 Guantanamo 
-https://thehill.com/homenews/administration/5113897-trump-guantanamo-bay-migrants/?ref=forever-wars.com
+https://thehill.com/homenews/administration/5113897-trump-guantanamo-bay-migrants/?ref=forever-wars.com | https://archive.md/65pzL
 
 NTSB (National Transportation Safety Board) updates exclusively posted on X
 https://x.com/NTSB_Newsroom/status/1885734974298435943 | https://archive.ph/nK20K
