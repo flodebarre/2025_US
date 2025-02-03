@@ -1,3 +1,10 @@
+## EPA
+
+> The Trump administration has warned more than 1,100 Environmental Protection Agency employees who work on climate change, reducing air pollution, enforcing environmental laws and other programs that they could be fired at any time.
+
+https://www.nytimes.com/2025/02/03/climate/trump-epa-workers-zeldin.html | https://web.archive.org/web/20250203152955/https://www.nytimes.com/2025/02/03/climate/trump-epa-workers-zeldin.html
+2025-02-03	
+
 ## USAID  
 -  Musk conspiracy theory about Covid origin  
 
@@ -39,6 +46,10 @@ https://edition.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/inde
 https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction | https://archive.md/Gk6Ul
 2025-02-01
 
+Pause initially until 1 Feb was extended
+https://bsky.app/profile/apoorvanyt.bsky.social/post/3lh5sglacjc26 | https://archive.md/MhC4C
+> Separately, a directive prohibiting C.D.C. employees from holding scientific meetings or communicating with other organizations or the public was indefinitely extended on Saturday, when it was expected to lapse, according to another email obtained by The Times.
+
 
 Disappeared Datasets 
 Before: https://web.archive.org/web/20250129035310/https:/www.cdc.gov/yrbs/index.html
@@ -56,13 +67,16 @@ https://www.atsdr.cdc.gov/community-stress-resource-center/php/resources/social-
 Youth risk behaviour surveillance  
 https://www.cdc.gov/yrbs/index.html
 
+Overview of data taken offline   
+https://www.kff.org/policy-watch/a-look-at-federal-health-data-taken-offline/  
+2025-02-02
 
 All datasets, archived  
 https://archive.org/download/20250128-cdc-datasets
 
 ### MMWR  
 
-https://www.salon.com/2025/02/02/administrations-communication-freeze-restricted-access-to-critical-bird-flu-information/ | 
+https://www.salon.com/2025/02/02/administrations-communication-freeze-restricted-access-to-critical-bird-flu-information/ | https://archive.md/NK8Js
 
 > One of the studies would reveal whether veterinarians who treat cattle have been unknowingly infected by the bird flu virus. Another report documents cases in which people carrying the virus might have infected their pet cats.  
 https://kffhealthnews.org/news/article/cdc-trump-mmwr-bird-flu-studies-blocked-meddling/ | https://archive.md/Yyqaz
@@ -83,6 +97,20 @@ https://www.politico.com/news/2025/01/31/usda-climate-change-websites-00201826 |
 https://bsky.app/profile/stairwaytokevin.bsky.social/post/3lh56pxkehs2m
 
 https://new.nsf.gov/funding/opportunities/orcc-organismal-response-climate-change/505963/nsf25-504
+
+
+## State Department and Climate change
+
+> And just like that, my new award from the @StateDept  to help Pakistan grapple with air pollution and climate change is no more, thanks to this new administration
+
+https://bsky.app/profile/gabefilippelli.bsky.social/post/3lgqjipx23k2l | https://archive.md/S0AxH  
+Gabriel Filippelli  
+2025-02-27
+
+
+https://www.motherjones.com/politics/2025/01/trump-executive-orders-nih-nsf-funding-pause-freeze-environmental-health-climate-science-research-interview/ | https://archive.md/quteq 
+
+
 
 
 ## DEIA  
@@ -131,6 +159,14 @@ The access — granted by Scott Bessent, Trump’s newly confirmed treasury secr
 > Engineers between 19 and 24, most linked to Musk’s companies, are playing a key role as he seizes control of federal infrastructure.  
 https://www.wired.com/story/elon-musk-government-young-engineers/ | https://archive.md/QYBhK
 2025-02-02
+
+## Office of Personnel Management (OPM)
+
+https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/ | https://archive.md/kcWxU  
+> Musk aides restrict access to federal employee data systems
+> Musk's team works around the clock, installs sofa beds at OPM
+> Concerns include cybersecurity and lack of oversight
+
 
 # Other 
  
