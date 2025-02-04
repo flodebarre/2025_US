@@ -99,6 +99,7 @@ https://bsky.app/profile/stairwaytokevin.bsky.social/post/3lh56pxkehs2m
 https://new.nsf.gov/funding/opportunities/orcc-organismal-response-climate-change/505963/nsf25-504
 
 
+
 ## State Department and Climate change
 
 > And just like that, my new award from the @StateDept  to help Pakistan grapple with air pollution and climate change is no more, thanks to this new administration
@@ -121,6 +122,11 @@ https://x.com/DOGE/status/1885420298138247458 | https://archive.ph/Fzoq4
 BIOLEAPS archived
 2025-01-23
 https://new.nsf.gov/funding/opportunities/bio-leaps-leading-culture-change-through-professional-societies/505994/nsf22-542 | https://archive.md/R95DV  
+
+
+NSF and forbidden words  
+2025-02-03  
+https://bsky.app/profile/darbysaxbe.bsky.social/post/3lhcvn4hxwk2o 
 
 
 ## Other science 
@@ -159,6 +165,13 @@ The access — granted by Scott Bessent, Trump’s newly confirmed treasury secr
 > Engineers between 19 and 24, most linked to Musk’s companies, are playing a key role as he seizes control of federal infrastructure.  
 https://www.wired.com/story/elon-musk-government-young-engineers/ | https://archive.md/QYBhK
 2025-02-02
+
+## Federal payment system 
+
+> A 25-year-old engineer named Marko Elez, who previously worked for two Elon Musk companies, has direct access to Treasury Department systems responsible for nearly all payments made by the US government, three sources tell WIRED.
+
+https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/ | https://archive.md/O3COo  
+2025-02-04
 
 ## Office of Personnel Management (OPM)
 
