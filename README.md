@@ -2,6 +2,8 @@
 
 ## NOAA
 
+### Data   
+
 Datasets inaccessible but cause not sure, may just be power outage (see below):  
 "Can't Find the Server"  
 http://glm.noaa.gov 
@@ -16,6 +18,37 @@ https://bsky.app/profile/danvisioni.bsky.social/post/3lhgr67mpuc26
 https://www.weather.gov/bou/PowerOutage2025  
 > Planned Full Power Outage at WFO Boulder February 5, 2025
 
+### Websites  
+
+> Sources tell WIRED that NOAA employees were ordered to give an engineer from Elon Musk's DOGE task force access to all of the agency's Google sites by the end of business Wednesday.  
+https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-2025/ | https://archive.md/DpbNB  
+
+### New leadership
+
+> Trump picks Neil Jacobs to head NOAA, a scientist with 'Sharpiegate' ties  
+https://www.npr.org/2025/02/05/nx-s1-5286701/trump-neil-jacobs-noaa-sharpiegate-misconduct | https://archive.md/mckVN
+
+
+## HHMI  
+
+HHMI are stopping Inclusive Excellence 3 (IE3) grants
+
+https://bsky.app/profile/immunoprof.bsky.social/post/3lhhekk4h6k22 | 
+
+https://bsky.app/profile/mopia.bsky.social/post/3lhhfhk7u222q
+> My dept was awarded a 6-year Howard Hughes Medical Institute (HHMI) Inclusive Excellence 3 (IE3) grant in 2023. My chair just got word that it will be terminated in a month.
+
+## CIA  
+
+https://www.nytimes.com/2025/02/05/us/politics/cia-names-list.html | https://archive.md/PxrZ8  
+> C.I.A. Sends White House an Unclassified Email With Names of Some Employees  
+
+> The list included first names and the first initial of the last name of the new hires, who are still on probation — and thus easy to dismiss. It included a large crop of young analysts and operatives who were hired specifically to focus on China, and whose identities are usually closely guarded because Chinese hackers are constantly seeking to identify them.  
+
+## Medicaid  
+
+https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162 | https://archive.md/RJN95  
+> Representatives of Elon Musk’s Department of Government Efficiency have been working at the Centers for Medicare and Medicaid Services, where they have gotten access to key payment and contracting systems, according to people familiar with the matter.
 
 
 ## Resisting
@@ -25,6 +58,15 @@ Jamelle Bouie
 https://www.nytimes.com/2025/02/05/opinion/trump-musk-federal-government.html?unlocked_article_code=1.uk4.wAAG.9ijOIwpzBVne&smid=url-share | https://archive.md/lRs6F  
 > Even if anyone had elected Elon Musk to anything, the last week would still be one of the most serious examples of executive branch malfeasance in American history.  
 > Musk has seized hold of critical levers of power and authority within the federal government, apparently enabling him to destroy federal agencies at will, barring congressional action or judicial pushback.
+
+GSA letter to members  
+https://genestogenomes.org/letter-from-the-gsa-president-on-recent-developments-arising-from-the-u-s-presidential-administration/ | https://archive.md/uO27K  
+
+
+## Summaries  
+
+Summary of what happened as science agencies  
+https://www.science.org/content/article/trump-orders-cause-chaos-science-agencies | 
 
 
 # 2025-02-04
