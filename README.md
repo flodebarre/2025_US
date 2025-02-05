@@ -41,19 +41,33 @@ https://abcnews.go.com/Politics/live-updates/trump-second-term-live-updates/?id=
 > The [State] Department is aiming to recall all USAID employees, including family members, to the United States by Saturday, according to multiple sources.
 > On Tuesday, new deputy administrator for USIAD Pete Marocco told State Department officials that if the evacuation wasn't completed, the military would step in, a source familiar with the conversion told ABC News.
 
+Stop publication of *Global Health: Science and Practice* journal  
+https://bsky.app/profile/kateclancy.bsky.social/post/3lhewx4ntkc2d | https://archive.md/pEMLv  
+> As part of these Executive Orders, USAID-funded projects have received stop work orders. Given the circumstance, we must stop all work on Global Health: Science and Practice. As such, I regret that we will have to postpone processing submitted papers. We know that a lot of work has gone into preparing your paper. Please feel free to take your manuscript elsewhere.  
+
+Journal: https://www.ghspjournal.org/about  
+  
+
+
 NOAA  
 https://www.theguardian.com/us-news/2025/feb/04/doge-noaa-headquarters | https://archive.md/gUjBs  
 > “They apparently just sort of walked past security and said: ‘Get out of my way,’ and they’re looking for access for the IT systems, as they have in other agencies,” said Andrew Rosenberg, a former Noaa official who is now a fellow at the University of New Hampshire. “They will have access to the entire computer system, a lot of which is confidential information.”
 
 FDA  
 Freeze on payments 
-https://bsky.app/profile/drsqwales.bsky.social/post/3lhef566amc2v | 
+https://bsky.app/profile/drsqwales.bsky.social/post/3lhef566amc2v | https://archive.md/XqFG3  
 > Due to the freeze on credit card use, my laboratory (in the FDA) risks losing the contents of our liquid nitrogen tanks which store INVALUABLE samples-they cannot be replaced, so they are literally priceless, and reflect about 50 years worth of research.
 
 
 DEI Watch list  
 https://www.nbcnews.com/health/health-news/federal-health-workers-terrified-dei-website-publishes-list-targets-rcna190711 | https://archive.md/0qQho  
 > Federal health workers are expressing fear and alarm after a website called “DEI Watch List” published the photos, names and public information of a number of workers across health agencies, describing them at one point as “targets.”   
+
+
+Resisting   
+SCIB email to members  
+https://mailchi.mp/sicb.org/sicb-member-update-july-6794245 | https://archive.md/OdIqT  
+> The past few weeks have been a stressful time in our scientific community, and we want to make our position clear: The Society for Integrative and Comparative Biology unequivocally condemns recent attacks on scientific integrity, funding for scientific research, and the importance of broadening participation in science.
 
 
 ---
