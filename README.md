@@ -1,3 +1,64 @@
+# 2025-02-04
+
+> [!NOTE]
+> I am now grouping events by dates instead of topics
+
+Summary on how Musk is taking control of the US government  
+https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html?unlocked_article_code=1.uU4.o3L_.8UoK0YPAKnHU&smid=bs-share | https://archive.md/Pv003
+
+Access to code base  
+https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/ | https://archive.ph/buvzc
+
+https://talkingpointsmemo.com/edblog/musk-cronies-dive-into-treasury-dept-payments-code-base | https://archive.md/eZtrm
+
+ASM removing banned words from articles  
+https://bsky.app/profile/jlgoff.bsky.social/post/3lheggpro6s26
+
+Preservation efforts of CDC datasets  
+https://www.salon.com/2025/02/04/as-the-admin-deletes-online-data-scientists-and-digital-librarians-rush-to-save-it/ | 
+
+Threat of mass layoffs at NSF  
+https://www.politico.com/news/2025/02/04/science-funding-agency-layoffs-threat-00202426 | https://archive.md/4q9PY
+
+CIA  
+https://www.wsj.com/politics/national-security/the-cia-is-about-to-get-a-trump-makeover-16fc0cbf | https://archive.md/idWdp 
+> The Central Intelligence Agency offered buyouts to its entire workforce Tuesday, in what officials said is a bid to bring the agency in line with President Trump’s priorities, including targeting drug cartels. 
+
+Version Reuters  
+https://www.reuters.com/world/us/cia-offers-buyouts-entire-workforce-align-with-trump-priorities-wsj-reports-2025-02-05/ | https://archive.md/A3KDL 
+
+NASA  
+https://www.404media.co/nasa-dei-drop-everything-executive-order/ | https://archive.md/pujAc  
+> NASA personnel were told to “drop everything” to scrub public sites of mentions of DEI, indigenous people, environmental justice, and women in leadership, according to a directive obtained by 404 Media.  
+
+Example of page that disappeared  
+https://bsky.app/profile/drwendyrocks.bsky.social/post/3lhfsbyc5t22x  
+https://www.nasa.gov/people-of-nasa/wendy-bohon-from-actor-to-scientist-to-communications-specialist/  
+
+
+USAID Staff worldwide asked to come back  
+https://abcnews.go.com/Politics/live-updates/trump-second-term-live-updates/?id=118389757&entryId=118457128  
+> The [State] Department is aiming to recall all USAID employees, including family members, to the United States by Saturday, according to multiple sources.
+> On Tuesday, new deputy administrator for USIAD Pete Marocco told State Department officials that if the evacuation wasn't completed, the military would step in, a source familiar with the conversion told ABC News.
+
+NOAA  
+https://www.theguardian.com/us-news/2025/feb/04/doge-noaa-headquarters | https://archive.md/gUjBs  
+> “They apparently just sort of walked past security and said: ‘Get out of my way,’ and they’re looking for access for the IT systems, as they have in other agencies,” said Andrew Rosenberg, a former Noaa official who is now a fellow at the University of New Hampshire. “They will have access to the entire computer system, a lot of which is confidential information.”
+
+FDA  
+Freeze on payments 
+https://bsky.app/profile/drsqwales.bsky.social/post/3lhef566amc2v | 
+> Due to the freeze on credit card use, my laboratory (in the FDA) risks losing the contents of our liquid nitrogen tanks which store INVALUABLE samples-they cannot be replaced, so they are literally priceless, and reflect about 50 years worth of research.
+
+
+DEI Watch list  
+https://www.nbcnews.com/health/health-news/federal-health-workers-terrified-dei-website-publishes-list-targets-rcna190711 | https://archive.md/0qQho  
+> Federal health workers are expressing fear and alarm after a website called “DEI Watch List” published the photos, names and public information of a number of workers across health agencies, describing them at one point as “targets.”   
+
+
+---
+# Before 2025-02-04
+
 ## EPA
 
 > The Trump administration has warned more than 1,100 Environmental Protection Agency employees who work on climate change, reducing air pollution, enforcing environmental laws and other programs that they could be fired at any time.
@@ -41,6 +102,7 @@ https://edition.cnn.com/2025/02/02/politics/usaid-officials-leave-musk-doge/inde
 
 
 ## CDC   
+
 > In the order, CDC researchers were instructed to remove references to or mentions of a list of forbidden terms: “Gender, transgender, pregnant person, pregnant people, LGBT, transsexual, non-binary, nonbinary, assigned male at birth, assigned female at birth, biologically male, biologically female,” according to an email sent to CDC employees (see below).”
 
 https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction | https://archive.md/Gk6Ul
@@ -81,7 +143,6 @@ https://www.salon.com/2025/02/02/administrations-communication-freeze-restricted
 > One of the studies would reveal whether veterinarians who treat cattle have been unknowingly infected by the bird flu virus. Another report documents cases in which people carrying the virus might have infected their pet cats.  
 https://kffhealthnews.org/news/article/cdc-trump-mmwr-bird-flu-studies-blocked-meddling/ | https://archive.md/Yyqaz
 2025-01-30
-
 
 
 
@@ -127,6 +188,13 @@ https://new.nsf.gov/funding/opportunities/bio-leaps-leading-culture-change-throu
 NSF and forbidden words  
 2025-02-03  
 https://bsky.app/profile/darbysaxbe.bsky.social/post/3lhcvn4hxwk2o 
+
+Confirmation by Nature that NSF is re-reviewing grants looking for forbidden words  
+https://www.nature.com/articles/d41586-025-00365-z | https://archive.md/PALHJ   
+2025-02-03
+
+Ted Cruz list of forbidden words (see Appendix B p.40ff)  
+https://www.commerce.senate.gov/services/files/4BD2D522-2092-4246-91A5-58EEF99750BC#page16 | https://web.archive.org/web/20250117234354/https://www.commerce.senate.gov/services/files/4BD2D522-2092-4246-91A5-58EEF99750BC#page16
 
 
 ## Other science 
@@ -192,6 +260,4 @@ https://thehill.com/homenews/administration/5113897-trump-guantanamo-bay-migrant
 
 NTSB (National Transportation Safety Board) updates exclusively posted on X
 https://x.com/NTSB_Newsroom/status/1885734974298435943 | https://archive.ph/nK20K
-
-
 
