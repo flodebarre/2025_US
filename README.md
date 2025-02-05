@@ -2,13 +2,21 @@
 
 ## NOAA
 
-Datasets inaccessible:  
+Datasets inaccessible but cause not sure, may just be power outage (see below):  
 "Can't Find the Server"  
 http://glm.noaa.gov 
 
 Warning on NCEI website  
 https://web.archive.org/web/20250205040539/https://www.ncei.noaa.gov/  
 > Please note: Due to scheduled maintenance, many NCEI systems will be unavailable February 4th, 12:00 PM ET - February 6th, 8:00 PM ET. We apologize for any inconvenience.
+
+https://bsky.app/profile/danvisioni.bsky.social/post/3lhgr67mpuc26  
+> All NOAA offices in Boulder haven’t had power since yesterday   
+
+https://www.weather.gov/bou/PowerOutage2025  
+> Planned Full Power Outage at WFO Boulder February 5, 2025
+
+
 
 ## Resisting
 
@@ -58,7 +66,7 @@ https://www.404media.co/nasa-dei-drop-everything-executive-order/ | https://arch
 
 Example of page that disappeared  
 https://bsky.app/profile/drwendyrocks.bsky.social/post/3lhfsbyc5t22x  
-https://www.nasa.gov/people-of-nasa/wendy-bohon-from-actor-to-scientist-to-communications-specialist/  
+https://www.nasa.gov/people-of-nasa/wendy-bohon-from-actor-to-scientist-to-communications-specialist/ | https://web.archive.org/web/20250205083909/https://www.nasa.gov/people-of-nasa/wendy-bohon-from-actor-to-scientist-to-communications-specialist/   
 
 ## USAID  
 USAID Staff worldwide asked to come back  
