@@ -68,6 +68,9 @@ https://genestogenomes.org/letter-from-the-gsa-president-on-recent-developments-
 Summary of what happened as science agencies  
 https://www.science.org/content/article/trump-orders-cause-chaos-science-agencies | 
 
+How Trump is damaging science in the US  
+Pleuni Pennings
+https://abetterscientist.wordpress.com/2025/02/05/how-trump-is-damaging-science-in-the-us/ | https://archive.md/HT0zN  
 
 # 2025-02-04
 
