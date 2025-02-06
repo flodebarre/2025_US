@@ -1,3 +1,13 @@
+# 2025-02-06
+
+## DOGE
+
+19-yo DOGE staffer has dodgy background  
+https://www.wired.com/story/edward-coristine-tesla-sexy-path-networks-doge/ | https://archive.md/k67sQ   
+> Experts question whether Edward Coristine, a DOGE staffer who has gone by “Big Balls” online, would pass the background check typically required for access to sensitive US government systems.
+
+
+
 # 2025-02-05
 
 ## NOAA
@@ -28,6 +38,14 @@ https://www.wired.com/story/doge-engineer-noaa-data-google-musk-climate-project-
 > Trump picks Neil Jacobs to head NOAA, a scientist with 'Sharpiegate' ties  
 https://www.npr.org/2025/02/05/nx-s1-5286701/trump-neil-jacobs-noaa-sharpiegate-misconduct | https://archive.md/mckVN
 
+### Gag order  
+
+https://www.wired.com/story/noaa-employees-foreign-nationals/ | https://archive.md/GoMfw
+> An internal email obtained by WIRED shows that NOAA workers received orders to pause “ALL INTERNATIONAL ENGAGEMENTS.”  
+
+> An internal email obtained by WIRED shows that the NOAA’s National Marine Fisheries Service (NMFS) received orders to pause “ALL INTERNATIONAL ENGAGEMENTS.” (Emphasis theirs.) The message states that the orders extend to participation in international commissions and even emails “with foreign national colleagues.”  
+
+
 
 ## HHMI  
 
@@ -50,6 +68,25 @@ https://www.nytimes.com/2025/02/05/us/politics/cia-names-list.html | https://arc
 https://www.wsj.com/politics/elon-musk-doge-medicare-medicaid-fraud-e697b162 | https://archive.md/RJN95  
 > Representatives of Elon Musk’s Department of Government Efficiency have been working at the Centers for Medicare and Medicaid Services, where they have gotten access to key payment and contracting systems, according to people familiar with the matter.
 
+## USAID 
+
+Conspiracy theories and disinformation about what USAID was doing  
+
+https://bsky.app/profile/billmccarthy.bsky.social/post/3lhhooszt2c25 | https://archive.md/6aFFY
+> An E! News spokesperson tells me this video Elon Musk amplified -- which purports to show E! News reporting that USAID paid celebrities to visit Ukraine's Volodymyr Zelensky -- "is not authentic and did not originate from E! News." Ben Stiller, one of the actors named, also posted that it is false.
+
+
+Consequences of the dismantlement of USAID
+https://www.science.org/content/article/it-s-tectonic-u-s-foreign-aid-freeze-deals-blow-research-around-globe | linkhttps://archive.md/MmJ4R 
+
+https://www.theguardian.com/us-news/2025/feb/05/musk-doge-takeover-usaid | https://archive.md/Nu22H
+
+## CDC
+
+Erin Abramsohn announced on LinkedIn that she had resigned on Jan 24th.  
+According to her profile, she was at H5N1 response - Policy/Partnership Lead  
+https://www.linkedin.com/feed/update/urn:li:activity:7293092363164413952/ | https://archive.md/qFDTi
+
 
 ## Resisting
 
@@ -71,6 +108,14 @@ https://www.science.org/content/article/trump-orders-cause-chaos-science-agencie
 How Trump is damaging science in the US  
 Pleuni Pennings
 https://abetterscientist.wordpress.com/2025/02/05/how-trump-is-damaging-science-in-the-us/ | https://archive.md/HT0zN  
+
+## Other
+
+Musk's conflicts of interests  
+https://www.bloomberg.com/news/articles/2025-02-05/white-house-says-musk-will-police-his-own-conflicts-of-interest | https://archive.md/SgIsR  
+> White House Says Musk Will Police His Own Conflicts of Interest
+
+
 
 # 2025-02-04
 
