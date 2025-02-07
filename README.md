@@ -40,11 +40,17 @@ https://www.washingtonpost.com/national-security/2025/02/06/elon-musk-doge-acces
 
 > At least six DOGE agents were given broad access to all personnel systems at the OPM on the afternoon of Jan. 20, the day of Trump’s inauguration, according to two agency officials. Three more gained access about a week later, they said.  
 
-
 Marko Elez had "write" access, but having "read-only" remains highly problematic  
 https://www.wired.com/story/treasury-department-doge-marko-elez-access/ | https://archive.md/oMXxO  
 > The US Treasury Claimed DOGE Technologist Didn’t Have ‘Write Access’ When He Actually Did  
 > Sources tell WIRED that the ability of DOGE’s Marko Elez to alter code controlling trillions in federal spending was rescinded days after US Treasury and White House officials said it didn’t exist.
+
+DOGE Staffer Resigns Over Racist Posts  
+https://www.wsj.com/tech/doge-staffer-resigns-over-racist-posts-d9f11a93 | https://archive.md/7QvSF
+> A key DOGE staff member who gained access to the Treasury Department’s central-payments system resigned Thursday after he was linked to a deleted social-media account that advocated racism and eugenics.  
+> Marko Elez, a 25-year-old who is part of a cadre of Elon Musk lieutenants deployed by the Department of Government Efficiency to scrutinize federal spending, resigned after The Wall Street Journal asked the White House about his connection to the account.
+
+
 
 ## FBI  
 
@@ -86,6 +92,11 @@ https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatte
 > On Thursday, two sources told Ars that the science agency should expect to see steep cuts in Trump's forthcoming budget request. In recent years, the National Science Foundation has received an annual budget of approximately $9 billion, the vast majority of which is spent on research and research-related activities. The cuts could be as deep as 66 percent, with one person indicating the top-line budget number for the National Science Foundation could start at $3 billion.  
 > Such a massive cut is not out of line with a proposal made by Russ Vought for the fiscal year 2023 budget as part of his Center for Renewing America. Vought is expected to become the White House budget director in the coming days. Three years ago, Vought proposed cutting the National Science Foundation budget to $3.9 billion. The cuts, he wrote, would require NSF "to make better decisions and target grants to actual research that will benefit the whole country, not just propagandize for woke ideology."
 
+## NASA
+
+Pronouns have to be removed from Teams names and email signatures  
+https://www.npr.org/2025/02/06/nx-s1-5289319/nasa-instructs-employees-to-remove-pronouns-from-all-work-communications | https://archive.md/4jMxp   
+> NASA employees are being required to strip all pronouns from emails and other applications, according to an all-staff email seen by NPR.   
 
 ## HHMI  
 
@@ -102,6 +113,12 @@ https://bsky.app/profile/danielbolnick.bsky.social/post/3lhjixmxses2a | https://
 
 Statement by AGU, call to answer survey    
 https://fromtheprow.agu.org/standing-together-for-science-supporting-our-community-amid-federal-funding-challenges/ | https://archive.md/4960f  
+
+Statement by American Meteorological Society  
+(Not directly about diversity, but more about threats on climate change / weather)  
+https://blog.ametsoc.org/2025/02/06/on-recent-executive-orders-and-the-weather-and-climate-enterprise/ | https://archive.md/t7MYO
+
+
 
 ### Humor
 
