@@ -1,12 +1,135 @@
 # 2025-02-06
 
+## CDC
+
+### MMWR  
+
+MMWR is back, with two papers on LA fires  
+https://www.cdc.gov/mmwr/index.html | https://archive.md/HmUt7  
+https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7403-H.pdf | https://web.archive.org/web/20250206231101/https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7403-H.pdf  
+
+A table with data on within-household H5N1 transmission was briefly published on MMWR in an article on LA fires  
+https://www.nytimes.com/2025/02/06/health/cdc-bird-flu-cats-people.html?unlocked_article_code=1.u04.Bc1l.sn91i-uVdRSO&smid=url-share | https://archive.md/9V9H5  
+> C.D.C. Posts, Then Deletes, Data on Bird Flu Spread Between Cats and People  
+> The data, which appeared fleetingly online on Wednesday, confirmed transmission in two households. Scientists called on the agency to release the full report.
+
+
+https://www.washingtonpost.com/health/2025/02/06/cdc-mmwr-bird-flu-public-health-communication/ | https://archive.md/YuSD7  
+
+Chart that was accidentally published on cats in households:  
+https://bsky.app/profile/hlniman.bsky.social/post/3lhl4vng6e22g | https://archive.md/J8Y3v
+
+### Layoffs
+
+https://www.washingtonpost.com/politics/2025/02/06/health-agencies-rank-probationary-employees/ | https://archive.md/TEjQa   
+> Health agencies told to rank some workers as fear of layoffs grows   
+> Leaders have been told urgently to rank thousands of their employees who are in probationary periods, with as much as 40 percent to be deemed not mission-critical.
+
+[...]  
+> One email sent to CDC managers Wednesday afternoon and obtained by The Post included an attached spreadsheet and instructions to separate workers into the three categories of mission-critical, important and not mission-critical.
+
 ## DOGE
 
 19-yo DOGE staffer has dodgy background  
 https://www.wired.com/story/edward-coristine-tesla-sexy-path-networks-doge/ | https://archive.md/k67sQ   
 > Experts question whether Edward Coristine, a DOGE staffer who has gone by “Big Balls” online, would pass the background check typically required for access to sensitive US government systems.
 
+https://www.washingtonpost.com/national-security/2025/02/06/elon-musk-doge-access-personnel-data-opm-security/ | https://archive.md/rGfmG
+> Musk’s DOGE agents access sensitive personnel data, alarming security officials  
+> The highly restricted data includes personally identifiable information for millions of federal employees maintained by the Office of Personnel Management.  
 
+> At least six DOGE agents were given broad access to all personnel systems at the OPM on the afternoon of Jan. 20, the day of Trump’s inauguration, according to two agency officials. Three more gained access about a week later, they said.  
+
+
+Marko Elez had "write" access, but having "read-only" remains highly problematic  
+https://www.wired.com/story/treasury-department-doge-marko-elez-access/ | https://archive.md/oMXxO  
+> The US Treasury Claimed DOGE Technologist Didn’t Have ‘Write Access’ When He Actually Did  
+> Sources tell WIRED that the ability of DOGE’s Marko Elez to alter code controlling trillions in federal spending was rescinded days after US Treasury and White House officials said it didn’t exist.
+
+## FBI  
+
+Vanity Fair on Brian "Drizz" Driscoll FBI resistance?  
+And an amazing opening paragraph  
+https://www.vanityfair.com/news/story/fbi-brian-driscoll-james-dennehy-resistance-trump-musk | https://archive.md/Nd7bg   
+> These are dark and strange days in American government. Elon Musk, an unelected mega-billionaire with a fondness for ketamine, and his band of Gen Z coders are ransacking Washington, threatening to shutter entire federal agencies and cut billions in legally appropriated spending, while accessing the personal information of millions of citizens and rooting through trillions of dollars in Treasury payments. The Republican-majority Congress has shown no interest in fighting for its powers or the rule of law.
+
+Shuttering specialised FBI team combating foreign election interference threats  
+https://edition.cnn.com/politics/live-news/trump-gaza-news-02-06-25#cm6srdiyc00053b6mju3tx6qj | https://archive.md/EXEjS  
+> The FBI is preparing to disband a team of specialists charged with combating foreign threats to US elections, a source familiar tells CNN.  
+> The shuttering of the FBI Foreign Influence Task Force and planned reassigning of team members follows a directive from incoming and newly sworn in US Attorney General Pam Bondi dissolving the team.
+
+## DOE  
+
+SpaceX network engineer granted access to IT systems at the Department of Energy  
+https://edition.cnn.com/2025/02/06/climate/doge-energy-department-trump/index.html | 
+> A representative from Elon Musk’s Department of Government Efficiency, or DOGE, was granted access to the Energy Department’s IT system on Wednesday by Energy Secretary Chris Wright, two people with knowledge of the situation told CNN.  
+> Wright granted access to DOGE representative Luke Farritor — a 23-year-old former SpaceX intern — even over objections from members of the department’s general counsel and chief information offices, the people told CNN. The DOE chief information office is the department’s IT and cybersecurity office.
+
+## Department of Education  
+
+DOGE teams using AI on sensitive data  
+https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/ | https://archive.md/jhZNn  
+> Elon Musk’s DOGE is feeding sensitive federal data into AI to target cuts  
+> At the Education Department, the tech billionaire’s team has turned to artificial intelligence to hunt for potential spending cuts --- part of a broader plan to deploy the technology across the federal government.  
+
+[...]  
+> The AI probe includes data with personally identifiable information for people who manage grants, as well as sensitive internal financial data, the two people said.
+
+## NOAA
+
+Cancelled grant opportunity on Disaster Preparedness for Coastal Communities   
+https://bsky.app/profile/drk-lo.bsky.social/post/3lhjgolmrx22h | https://archive.md/Lbiwl  
+
+## NSF  
+
+https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/ | https://archive.md/NeQ4D  
+> On Thursday, two sources told Ars that the science agency should expect to see steep cuts in Trump's forthcoming budget request. In recent years, the National Science Foundation has received an annual budget of approximately $9 billion, the vast majority of which is spent on research and research-related activities. The cuts could be as deep as 66 percent, with one person indicating the top-line budget number for the National Science Foundation could start at $3 billion.  
+> Such a massive cut is not out of line with a proposal made by Russ Vought for the fiscal year 2023 budget as part of his Center for Renewing America. Vought is expected to become the White House budget director in the coming days. Three years ago, Vought proposed cutting the National Science Foundation budget to $3.9 billion. The cuts, he wrote, would require NSF "to make better decisions and target grants to actual research that will benefit the whole country, not just propagandize for woke ideology."
+
+
+## HHMI  
+
+Science coverage of them stopping their inclusivity program  
+https://www.science.org/content/article/hhmi-kills-program-aimed-boosting-inclusivity-stem-education | https://archive.md/JJTct
+
+## Resisting  
+
+### Society statements  
+
+Statement by ASN  
+
+https://bsky.app/profile/danielbolnick.bsky.social/post/3lhjixmxses2a | https://archive.md/lIdnI  
+
+Statement by AGU, call to answer survey    
+https://fromtheprow.agu.org/standing-together-for-science-supporting-our-community-amid-federal-funding-challenges/ | https://archive.md/4960f  
+
+### Humor
+
+Federal employees resist the "Fork in the Road" offer with spoon emojis  
+https://www.nytimes.com/2025/02/05/us/politics/federal-employees-musk-protest-spoon.html | https://archive.md/E4Rzm  
+
+## Other  
+
+### National archives
+
+Confusion over who is leading National Archives  
+https://www.404media.co/national-archives-workers-unsure-if-marco-rubio-has-secretly-been-their-boss-for-weeks/ | https://archive.md/ACnIH   
+> Wednesday night, ABC News reported that Secretary of State Marco Rubio “has been the acting archivist” at the National Archives and Records Administration “since shortly after President Trump’s inauguration.”   
+> The idea that Rubio might be their new boss—and has been their boss, apparently, for weeks—is news to National Archives employees and apparently to its current director Colleen Shogan. Shogan held an all-hands meeting with archives employees on Tuesday in which nothing was said about Rubio and in which Shogan still seemed to be in charge. 
+
+### MAHA  
+
+New "scientific" journal with MAGA favorites  
+https://www.wired.com/story/trump-nih-pick-launched-controversial-scientific-journal/ | https://archive.md/Cc1py  
+
+Journal: https://publichealth.realclearjournals.org  
+> Members of the Academy of Public Health can publish any of their public health research in JAPH. Through pre-submission gatekeeping at the author level rather than for each article, and by assuming that all our members have valuable scientific contributions that are worthy of publication, the research can be published more rapidly, without potentially having to submit it to multiple journals. Great research should be published as soon as possible to promptly advance science. Flawed research is better published together with critical reviews from the first journal to which it is submitted. Now such papers waste precious time by requiring multiple reviews and rejections by different journals, while most are still eventually published with a stamp of approval from a “peer-reviewed journal,” but without readers having access to those earlier critical reviews.
+
+### Court order 
+
+
+https://bsky.app/profile/warren.senate.gov/post/3lhjv7ypqcs2y | https://archive.md/zMRiR  
+> A federal court just blocked Elon Musk from interfering with the federal government’s payments system.
 
 # 2025-02-05
 
