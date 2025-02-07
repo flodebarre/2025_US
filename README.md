@@ -1,3 +1,54 @@
+# 2025-02-07
+
+## CDC  
+
+CDC data over time  
+(Decreases even after Feb 1st)  
+https://bsky.app/profile/jaspar.bsky.social/post/3lhm5faq2xk2y | https://archive.md/dboNj  
+
+
+## Commentary 
+
+Huge infosec risks of DOGE activities  
+https://www.theatlantic.com/technology/archive/2025/02/elon-musk-doge-security/681600/?gift=bQgJMMVzeo8RHHcE1_KM0bQqBafgZ_W6mgfrvf8YevM&utm_source=copy-link&utm_medium=social&utm_campaign=share | https://archive.md/Wqw6F  
+
+## DOGE
+
+Coristine's profile  
+https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets | https://archive.md/4q2Ay  
+> was fired from an internship after he was accused of sharing information with a competitor.  
+[...]  
+> Two US law enforcement officials who investigate cybercrimes told Bloomberg they’ve been tracking online chat rooms that Coristine and others participated in for at least a year.
+
+Tracker of who works at DOGE  
+https://projects.propublica.org/elon-musk-doge-tracker/ | https://archive.md/hhxpX  
+
+
+Tom Krause head of Treasury  
+https://www.washingtonpost.com/business/2025/02/07/treasury-doge-payments-musk/ | https://archive.md/c8UuG  
+> Tom Krause, a Silicon Valley executive with ties to DOGE, will become the financial assistant secretary of the Treasury Department, the people said. 
+
+
+DOGE as "insider thread" in the US Treasury  
+https://www.wired.com/story/treasury-bfs-doge-insider-threat/ | https://archive.md/q26im  
+> Members of Elon Musk’s Department of Government Efficiency (DOGE) team have had access to the US Treasury Department’s payment systems for over a week. On Thursday, the threat intelligence team at one of those systems recommended that DOGE members be monitored as an “insider threat.”
+
+DOGE Is Now Inside the Consumer Financial Protection Bureau   
+https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/ | https://archive.md/gycFS#selection-553.0-553.59  
+
+## HHMI and other private donors  
+
+A bit more details about HHMI  
+https://www.nature.com/articles/d41586-025-00396-6 | https://archive.md/r5Li3  
+
+## Resisting 
+
+### The Lancet 
+
+Editorial  
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00237-5/fulltext |   
+> Trump's actions must be called out for the damage they are doing.
+
 # 2025-02-06
 
 ## CDC
