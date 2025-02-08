@@ -12,6 +12,9 @@ https://www.nytimes.com/2025/02/07/us/politics/medical-research-funding-cuts-uni
 Science:  
 https://www.science.org/content/article/nih-slashes-overhead-payments-research-sparking-outrage | https://archive.md/vgnkS  
 
+WashPo:  
+https://www.washingtonpost.com/health/2025/02/08/nih-cuts-billions-dollars-biomedical-funding-effective-immediately/ | https://archive.md/FMKmf  
+> In fiscal year 2023, out of $35 billion in awarded grants, $9 billion went to overhead, NIH said.  
 
 
 ## CDC  
@@ -27,6 +30,12 @@ https://www.cbsnews.com/news/trump-officials-influence-cdc-mmwr/ | https://archi
 > The stalled research includes findings about pet cats owned by dairy workers being infected with bird flu, plus wastewater testing results and antibody testing of cow veterinarians.  
 > Instead, health officials say Monarez relayed orders by the Trump administration to come up with research to publish this week about the health risks from wildfires, days after President Trump criticized California's Democratic Governor Gavin Newsom's handling of fires in the state.  
 > Federal scientists say they scrambled to find studies to comply with the order, which was unexpected and not related to any studies that had been scheduled to come out. 
+
+## USAID  
+
+Letters at the entrance of the USAID building have been removed  
+https://x.com/elonmusk/status/1887972336847962314 | https://archive.ph/XnYVx
+
 
 
 ## Commentary 
