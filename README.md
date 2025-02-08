@@ -1,10 +1,32 @@
 # 2025-02-07
 
+## NIH  
+
+New policy limiting overheads at 15%  
+https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-068.html | https://archive.md/lpmF5  
+> there will be a standard indirect rate of 15% across all NIH grants for indirect costs in lieu of a separately negotiated rate for indirect costs in every grant.  
+
+NYT:  
+https://www.nytimes.com/2025/02/07/us/politics/medical-research-funding-cuts-university-budgets.html | https://archive.md/w8Ujg  
+
+Science:  
+https://www.science.org/content/article/nih-slashes-overhead-payments-research-sparking-outrage | https://archive.md/vgnkS  
+
+
+
 ## CDC  
 
 CDC data over time  
 (Decreases even after Feb 1st)  
 https://bsky.app/profile/jaspar.bsky.social/post/3lhm5faq2xk2y | https://archive.md/dboNj  
+
+
+"The MMWR has lost its autonomy,"  
+https://www.cbsnews.com/news/trump-officials-influence-cdc-mmwr/ | https://archive.md/k4Xl6  
+> But as that pause has started to lift, Trump officials at HHS, and acting CDC Director Susan Monarez, refused repeated requests by career health officials to publish the completed research, officials say.  
+> The stalled research includes findings about pet cats owned by dairy workers being infected with bird flu, plus wastewater testing results and antibody testing of cow veterinarians.  
+> Instead, health officials say Monarez relayed orders by the Trump administration to come up with research to publish this week about the health risks from wildfires, days after President Trump criticized California's Democratic Governor Gavin Newsom's handling of fires in the state.  
+> Federal scientists say they scrambled to find studies to comply with the order, which was unexpected and not related to any studies that had been scheduled to come out. 
 
 
 ## Commentary 
@@ -20,8 +42,15 @@ https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by
 [...]  
 > Two US law enforcement officials who investigate cybercrimes told Bloomberg they’ve been tracking online chat rooms that Coristine and others participated in for at least a year.
 
-Tracker of who works at DOGE  
+What was The Com, to which Coristine is linked  
+https://cyberscoop.com/the-com-764-cybercrime-violent-crime-fbi-intellignce-report/ | https://archive.md/cC7Ru  
+
+
+ProPublica's Tracker of who works at DOGE  
 https://projects.propublica.org/elon-musk-doge-tracker/ | https://archive.md/hhxpX  
+New names:  
+https://www.propublica.org/article/elon-musk-doge-lawyers-supreme-court | https://archive.md/oV7La  
+
 
 
 Tom Krause head of Treasury  
@@ -36,17 +65,42 @@ https://www.wired.com/story/treasury-bfs-doge-insider-threat/ | https://archive.
 DOGE Is Now Inside the Consumer Financial Protection Bureau   
 https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-data/ | https://archive.md/gycFS#selection-553.0-553.59  
 
+On Gavin Kliger tweets  
+https://www.forbes.com/sites/johnhyatt/2025/02/07/the-now-deleted-tweets-of-doge-staffer-gavin-kliger/ | https://archive.md/krA3b   
+> From mass deportations and military tribunal executions to calling Hillary Clinton a slur, OPM staffer Gavin Kliger has embraced the fringes of Elon Musk’s X and Trump’s MAGA movement.
+
 ## HHMI and other private donors  
 
 A bit more details about HHMI  
 https://www.nature.com/articles/d41586-025-00396-6 | https://archive.md/r5Li3  
+
+## FBI  
+
+Kash Patel's Russian ties  
+https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/ | https://archive.md/P1VRM  
+> Kash Patel, President Donald Trump’s nominee to be FBI director, was paid $25,000 last year by a film company owned by a Russian national who also holds U.S. citizenship and has produced programs promoting “deep state” conspiracy theories and anti-Western views advanced by the Kremlin, according to a financial disclosure form Patel submitted as part of his nomination process and other documents.
+
+## NASA
+
+Example of removed bio  
+https://bsky.app/profile/mikeachim.bsky.social/post/3lhlim56u6s2c | https://archive.md/eIgXp  
+> A post on Meta's Threads from astronomer Rose Ferreira, which reads: "Well, my bio just got removed from the NASA site because of an order that went out to remove stuff about women in STEM. 
+> I've only been on Threads for a full year, so a lot of people here never heard of a feature that NASA did on me talking about my love of the Moon, how I grew up in poverty, then my homelessness in the US, and then me being at NASA itself.
+That's how easy it is to erase you as a person, and everything you've done. I'm not even sure how I feel right now."  
+
+Bio, previously: https://web.archive.org/web/20231206220911/https://www.nasa.gov/universe/nasa-intern-found-hope-in-the-moon-2/  
+
+## Archives  
+
+End of confusion at the Archives, Colleen Shogan was dismissed  
+https://www.nbcnews.com/politics/donald-trump/trump-dismisses-head-national-archives-colleen-shogan-rcna191309 | https://archive.md/tR7Fw
 
 ## Resisting 
 
 ### The Lancet 
 
 Editorial  
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00237-5/fulltext |   
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00237-5/fulltext | https://archive.md/HKKQQ  
 > Trump's actions must be called out for the damage they are doing.
 
 # 2025-02-06
