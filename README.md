@@ -1,3 +1,18 @@
+# 2025-02-09
+
+
+
+# 2025-02-08
+
+## NIH
+
+See previous day for commentaries on the announced change in indirect costs
+
+## DOGE
+
+Details about how DOGE members were hired -- links with Palantir  
+https://www.wired.com/story/elon-musk-doge-recruiting-palantir/ | https://archive.md/ZvTwR
+
 # 2025-02-07
 
 ## NIH  
@@ -35,8 +50,6 @@ https://www.cbsnews.com/news/trump-officials-influence-cdc-mmwr/ | https://archi
 
 Letters at the entrance of the USAID building have been removed  
 https://x.com/elonmusk/status/1887972336847962314 | https://archive.ph/XnYVx
-
-
 
 ## Commentary 
 
