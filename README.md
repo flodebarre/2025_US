@@ -1,5 +1,38 @@
 # 2025-02-09
 
+## NIH 
+
+White House reply to WashPo reporting on NIH cited Vinay Prasad
+https://bsky.app/profile/ddiamond.bsky.social/post/3lhpcgs7ml22j | https://archive.md/hJuza  
+
+Potentially errors on rates in the NIH notice  
+
+MIT: https://ras.mit.edu/grant-and-contract-administration/under-recovery-fa-costs  
+
+Source of the rates in the NIH notice seems to be Heritage Foundation   
+https://www.heritage.org/sites/default/files/2022-01/BG3681.pdf | https://web.archive.org/web/20240307195952/https://www.heritage.org/sites/default/files/2022-01/BG3681.pdf  
+
+## Vance and judges  
+
+
+https://x.com/JDVance/status/1888607143030391287 | https://archive.ph/YeY77  
+> If a judge tried to tell a general how to conduct a military operation, that would be illegal.  
+> If a judge tried to command the attorney general in how to use her discretion as a prosecutor, that's also illegal.  
+> Judges aren't allowed to control the executive's legitimate power.
+
+
+
+
+## Resisting
+
+Bluesky bot to follow Federal US website removals  
+https://bsky.app/profile/fed-us-domain-bot.bsky.social 
+
+Estimates of losses of NIH 15% cap  
+https://datawrapper.dwcdn.net/l0ZqA/9/ | 
+
+Adam Kucharski on calling a spade a space  
+https://kucharski.substack.com/p/the-biggest-coincidence-of-my-career | https://archive.md/hqLuO  
 
 
 # 2025-02-08
@@ -31,6 +64,21 @@ WashPo:
 https://www.washingtonpost.com/health/2025/02/08/nih-cuts-billions-dollars-biomedical-funding-effective-immediately/ | https://archive.md/FMKmf  
 > In fiscal year 2023, out of $35 billion in awarded grants, $9 billion went to overhead, NIH said.  
 
+## NSF  
+
+
+Description of how NSF is functioning (including rotators) and of the threats  
+https://www.science.org/content/article/my-boss-was-crying-nsf-confronts-potentially-massive-layoffs-and-budget-cuts | https://archive.md/hqs2K  
+> For example, conservative economist Samuel Hammond of the Foundation for American Innovation this week wrote on the social media platform X, “The NSF could likely operate with one-tenth the staff and be 10x as effective with the right people and smarter approaches.” Hammond’s post came a day before he testified at a 5 February hearing held by the science committee of the U.S. House of Representatives on maintaining U.S. leadership in science. 
+
+
+Cancellation of specific programs   
+https://bsky.app/profile/starlord37.bsky.social/post/3lhorfwjmzc22 | https://archive.md/RuH06  
+> Last night I found out that the NSF math postdoctoral fellowship I applied for is being deleted because it does not comply with Trump’s executive orders on DEI in the federal government.  
+
+Unrolled version  
+https://skyview.social/?url=https://bsky.app/profile/did:plc:yqxcc5ayxllwkvel4narbha4/post/3lhssu3j2ak2s&viewtype=unroll | https://archive.md/agCdA  
+
 
 ## CDC  
 
@@ -56,6 +104,11 @@ https://x.com/elonmusk/status/1887972336847962314 | https://archive.ph/XnYVx
 Huge infosec risks of DOGE activities  
 https://www.theatlantic.com/technology/archive/2025/02/elon-musk-doge-security/681600/?gift=bQgJMMVzeo8RHHcE1_KM0bQqBafgZ_W6mgfrvf8YevM&utm_source=copy-link&utm_medium=social&utm_campaign=share | https://archive.md/Wqw6F  
 
+Philip Ball: Scientific institutions have a long history of anticipatory obedience  
+https://www.chemistryworld.com/opinion/scientific-institutions-have-a-long-history-of-anticipatory-obedience/4020931.article | https://archive.md/6nFXz  
+
+
+
 ## DOGE
 
 Coristine's profile  
@@ -65,7 +118,7 @@ https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by
 > Two US law enforcement officials who investigate cybercrimes told Bloomberg they’ve been tracking online chat rooms that Coristine and others participated in for at least a year.
 
 What was The Com, to which Coristine is linked  
-https://cyberscoop.com/the-com-764-cybercrime-violent-crime-fbi-intellignce-report/ | https://archive.md/cC7Ru  
+https://cyberscoop.com/the-com-764-cybercrime-violent-crime-fbi-intellignce-report/ | https://archive.md/cC7Ru 
 
 
 ProPublica's Tracker of who works at DOGE  
@@ -90,6 +143,9 @@ https://www.wired.com/story/doge-access-consumer-financial-protection-bureau-dat
 On Gavin Kliger tweets  
 https://www.forbes.com/sites/johnhyatt/2025/02/07/the-now-deleted-tweets-of-doge-staffer-gavin-kliger/ | https://archive.md/krA3b   
 > From mass deportations and military tribunal executions to calling Hillary Clinton a slur, OPM staffer Gavin Kliger has embraced the fringes of Elon Musk’s X and Trump’s MAGA movement.
+
+Testimony by someone working in the Office carrying out the purge OPM  
+https://slate.com/news-and-politics/2025/02/opm-fork-musk-trump-federal-personnel-management-employee.html | https://archive.md/6RfuU  
 
 ## HHMI and other private donors  
 
@@ -124,6 +180,9 @@ https://www.nbcnews.com/politics/donald-trump/trump-dismisses-head-national-arch
 Editorial  
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00237-5/fulltext | https://archive.md/HKKQQ  
 > Trump's actions must be called out for the damage they are doing.
+
+
+
 
 # 2025-02-06
 
