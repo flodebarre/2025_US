@@ -1,3 +1,31 @@
+# 2025-02-10
+
+## NIH  
+
+22 states are suing NIH (Memoli and Fink)    
+https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf | https://web.archive.org/web/20250210171342/https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf
+
+## NSA
+
+NSA deleting words  
+https://popular.info/p/the-nsas-big-delete | https://archive.md/frTtz  
+
+
+## Resisting  
+
+On blanket freeze  
+https://storage.courtlistener.com/recap/gov.uscourts.rid.58912/gov.uscourts.rid.58912.96.0_2.pdf | https://web.archive.org/web/20250210174255/https://storage.courtlistener.com/recap/gov.uscourts.rid.58912/gov.uscourts.rid.58912.96.0_2.pdf  
+Via https://bsky.app/profile/kyledcheney.bsky.social/post/3lhtodfvvsc23  
+> BREAKING: A federal judge has determined that the Trump administration is violating his order lifting the blanket spending freeze on federal grant programs. 
+> He is orderin gthe administration to immediately unfreeze funds, including for NIH and the IRA.  
+
+## Misc
+
+Change of position of a speaker at a UNESCO meeting on women in science  
+https://bsky.app/profile/sacquin-mo.bsky.social/post/3lhtayizvkc2f | https://archive.md/NUAqL  
+ALT: Programme mis à jour de la journée "femmes en sciences" du 11/02/2025 à l'UNESCO, Melonie Parker n'est plus "Directrice de la diversité" à Google, mais "vice-présidente de Googler engagement" à Google  
+
+
 # 2025-02-09
 
 ## NIH 
@@ -34,6 +62,11 @@ https://datawrapper.dwcdn.net/l0ZqA/9/ |
 Adam Kucharski on calling a spade a space  
 https://kucharski.substack.com/p/the-biggest-coincidence-of-my-career | https://archive.md/hqLuO  
 
+
+## Commentary  
+
+On removing DEI language in science  
+https://www.nytimes.com/2025/02/09/science/trump-dei-science.html | https://archive.md/b4lHD  
 
 # 2025-02-08
 
