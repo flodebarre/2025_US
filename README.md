@@ -5,10 +5,37 @@
 22 states are suing NIH (Memoli and Fink)    
 https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf | https://web.archive.org/web/20250210171342/https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf
 
+Another lawsuit by universities  
+https://www.aau.edu/newsroom/press-releases/statement-association-american-universities-association-public-land-grant | 
+
+## CFPB  
+
+
+https://www.muskwatch.com/p/musk-associates-granted-access-to | 
+> Elon Musk now has access to reams of confidential information about X's competitors in the digital payment sector, according to an official at the Consumer Financial Protection Bureau 
+
 ## NSA
 
 NSA deleting words  
 https://popular.info/p/the-nsas-big-delete | https://archive.md/frTtz  
+
+
+## USAID
+
+OIG alert report  
+https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf | https://web.archive.org/web/20250210205809/https://oig.usaid.gov/sites/default/files/2025-02/USAID%20OIG%20-%20Oversight%20of%20USAID-Funded%20Humanitarian%20Assistance%20Programming%20021025.pdf  
+> Oversight of USAID-Funded Humanitarian Assistance Programming Impacted by Staffing Reductions and Pause on Foreign Assistance  
+> February 10, 2025
+
+## Commentary 
+
+Trump’s Actions Have Created a Constitutional Crisis, Scholars Say  
+https://www.nytimes.com/2025/02/10/us/politics/trump-constitutional-crisis.html | https://archive.md/pz0qJ  
+> The distinctive feature of the current situation, several legal scholars said, is its chaotic flood of activity that collectively amounts to a radically new conception of presidential power.   
+[...]  
+> “The administration’s early moves,” she added, “also seem designed to demonstrate maximum contempt for core constitutional values — the separation of powers, the freedom of speech, equal justice under law.”  
+[...]  
+> “It’s a constitutional crisis when the president of the United States doesn’t care what the Constitution says regardless whether Congress or the courts resist a particular unconstitutional action,” she said. “Up until now, while presidents might engage in particular acts that were unconstitutional, I never had the sense that there was a president for whom the Constitution was essentially meaningless.”  
 
 
 ## Resisting  
@@ -18,6 +45,12 @@ https://storage.courtlistener.com/recap/gov.uscourts.rid.58912/gov.uscourts.rid.
 Via https://bsky.app/profile/kyledcheney.bsky.social/post/3lhtodfvvsc23  
 > BREAKING: A federal judge has determined that the Trump administration is violating his order lifting the blanket spending freeze on federal grant programs. 
 > He is orderin gthe administration to immediately unfreeze funds, including for NIH and the IRA.  
+
+Legal battles  
+https://www.washingtonpost.com/politics/2025/02/10/trump-judges-vance-musk-defy-orders/ | https://archive.md/TPJ9r  
+> Trump allies suggest defying court orders after stinging legal rebukes  
+> A judge in Rhode Island warned Monday that the Trump administration could be violating an order to halt a spending freeze.
+
 
 ## Misc
 
