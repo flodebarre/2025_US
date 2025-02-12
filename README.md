@@ -1,3 +1,59 @@
+# 2025-02-11
+
+## NIH  
+
+Funding freeze at NIH in spite of court orders   
+https://popular.info/p/trump-maintains-funding-freeze-at | https://archive.md/OClcw
+> The Trump administration is maintaining a funding freeze at the National Institutes of Health (NIH) in defiance of two federal court orders.  
+> The ongoing freeze was confirmed by an NIH official and internal correspondence reviewed by Popular Information.
+
+## NSF  
+
+Database of "woke" NSF projects released by Red Cruz's team  
+https://www.commerce.senate.gov/2025/2/cruz-led-investigation-uncovers-2-billion-in-woke-dei-grants-at-nsf-releases-full-database | https://archive.md/keG8C  
+
+Cleaned version of the database  
+https://github.com/embruna/cruz_nsf_database/tree/main 
+
+## DOGE
+
+Another list of DOGE staff  
+https://www.businessinsider.com/doge-staff-list-white-house-2025-2 | https://archive.md/PMwAK  
+
+Coristine website used for child pornography  
+https://www.muskwatch.com/p/doge-teen-ran-image-sharing-site | https://archive.md/BM2nM  
+
+## Resisting  
+
+Statement by ASPB American Society of Plant Biologists  
+https://blog.aspb.org/aspb-reaffirms-its-commitment-to-diversity-and-inclusion/ | https://archive.md/35192  
+
+## Other 
+
+Jan. 6 video evidence has 'disappeared' from public access, media coalition says  
+https://www.npr.org/2025/02/11/nx-s1-5293447/jan-6-evidence-captiol-riot-donald-trump | https://archive.md/y5ZTi  
+
+Elections  
+https://abcnews.go.com/Politics/wireStory/us-cyber-agency-puts-election-security-staffers-worked-118671767 | https://archive.md/0xFEW  
+> US cyber agency puts election security staffers who worked with the states on leave  
+> Staffers at the nation’s cybersecurity agency whose job is to ensure the security of U.S. elections have been placed on administrative leave, jeopardizing critical support provided to state and local election offices across the country
+
+NEA National Endowment for the Arts
+https://www.npr.org/2025/02/11/nx-s1-5293082/trump-executive-orders-dei-nea-arts-organizations | https://archive.md/HfZ4y  
+
+
+Ignoring judges  
+https://www.nbcnews.com/politics/donald-trump/fema-official-ignores-judge-order-freeze-grant-funding-rcna191674 | https://archive.md/39YNI#selection-1675.0-1675.75  
+> FEMA official ignores judge's latest order, demands freeze on grant funding
+
+
+Other issues with FBI nominee  
+https://www.nytimes.com/2025/02/11/us/politics/kash-patel-fbi-durbin.html | https://archive.md/5ZHFr  
+> The top Democrat on the Senate Judiciary Committee on Tuesday accused Kash Patel, President Trump’s nominee for F.B.I. director, of improperly directing a wave of firings at the bureau before being confirmed.  
+
+Commentary on how Musk is benefitting from what is happening  
+https://nymag.com/intelligencer/article/elon-musks-doge-is-also-a-bailout-for-x-tesla-and-xai.html | https://archive.md/q7qTH  
+
 # 2025-02-10
 
 ## NIH  
@@ -6,7 +62,7 @@
 https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf | https://web.archive.org/web/20250210171342/https://storage.courtlistener.com/recap/gov.uscourts.mad.280590/gov.uscourts.mad.280590.1.0.pdf
 
 Another lawsuit by universities  
-https://www.aau.edu/newsroom/press-releases/statement-association-american-universities-association-public-land-grant | 
+https://www.aau.edu/newsroom/press-releases/statement-association-american-universities-association-public-land-grant | https://archive.md/VhFr6  
 
 ## CFPB  
 
