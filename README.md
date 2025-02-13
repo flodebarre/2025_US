@@ -1,3 +1,11 @@
+# 2025-02-13  
+
+## Commentary  
+
+Christina Pagel's categorisation of Trump's actions  
+https://christinapagel.substack.com/p/so-this-is-how-liberty-dies-making
+
+
 # 2025-02-12
 
 ## USAID  
