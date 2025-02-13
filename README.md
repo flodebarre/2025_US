@@ -1,3 +1,66 @@
+# 2025-02-12
+
+## USAID  
+
+Commentary by Jonathan Katz on USAID  
+https://theracket.news/p/seeds-of-mistrust-usaid-musk-trump | https://archive.md/IdBEn  
+> So, to summarize: Reactionaries spent decades selling the lie that huge portions of the U.S. Treasury were being handed to undeserving minorities overseas. At the same time, politicians and conservative ideologues turned foreign aid programs into a sop to U.S. corporations, red-state farmers, and NGOs. This made these programs less effective than they otherwise might have been, leading to headline-grabbing failures that convinced the publics at home and abroad that foreign aid must all be some sort of elaborate scam.  
+> All of this set the stage for this spectacular moment, in which a hypocritical billionaire and a president with his own history of corrupt foreign schemes can dismantle a vital agency, hiding its records under the guise of “transparency” — all in the name of focusing on “problems at home” that they helped create.
+
+
+Consequences of USAID leaving DR Congo  
+https://edition.cnn.com/2025/02/12/politics/usaid-employees-congo-lawsuit-trump/index.html | https://archive.md/s7YYa  
+> Several employees, as part of a lawsuit filed Tuesday by a group representing the agency’s foreign service members, painted harrowing pictures of their chaotic departures from Kinshasa amid violent protests in the capital city, as President Donald Trump’s administration ended certain foreign assistance programs and placed members of Washington leadership on leave leading to internal disarray and a lack of guidance for staff.  
+
+
+Description of what the remaining employees are doing (not much)  
+https://www.motherjones.com/politics/2025/02/elon-musk-doge-offices-workplaces/ | https://archive.md/nAbnf  
+
+Consequences of USAID closure for ongoing clinical trials  
+https://www.bmj.com/content/388/bmj.r289 | 
+> This violates Article 10 of the Declaration of Helsinki, which prohibits weakening research participant protections based on national policies.  
+
+
+
+## NIH  
+
+Larry Tabak suddenly resigned  
+https://www.science.org/content/article/top-nih-official-suddenly-steps-down | https://archive.md/XuB8k  
+
+
+## DOGE 
+
+Commentary on the DOGE data breach  
+https://foreignpolicy.com/2025/02/11/doge-cyberattack-united-states-treasury/ | https://archive.md/lSHkJ  
+> DOGE Is Hacking America  
+> The U.S. government has experienced what may be the most consequential security breach in its history.
+
+
+DOGE composition: Palantir, SpaceX  
+https://www.wired.com/story/elon-musk-palantir-chief-information-officers-government/ | https://archive.md/XoT1y
+> Former Palantir and Elon Musk Associates Are Taking Over Key Government IT Roles  
+> The chief information officers of at least three major government agencies have been replaced by Silicon Valley executives, including from Palantir and Elon Musk’s SpaceX.
+
+ 
+## Other
+
+Trump admin will purchase $400M of armoured cyber trucks  
+https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas | https://archive.md/Tb3Km  
+
+A second Fellow of the Royal Society resigns because of Musk  
+https://www.researchprofessionalnews.com/rr-news-uk-charities-and-societies-2025-2-second-royal-society-fellow-resigns-over-musk-s-membership/ | https://archive.md/pWsZT  
+
+DOGE teams took $80M from NY bank accounts for FEMA  
+https://www.yahoo.com/news/trump-revokes-80-million-nyc-180300223.html | https://archive.md/FIRXV  
+> Trump revokes $80 million from NYC after threat to claw back FEMA cash used to care for migrants 
+
+
+
+The waste.gov website temporarily used a default Wordpress template with the word "diversity"  
+https://web.archive.org/web/20250211231438/https://waste.gov/  
+From https://bsky.app/profile/jasonkoebler.bsky.social/post/3lhylqdmyv222 | https://archive.md/ijlnA  
+
+
 # 2025-02-11
 
 ## NIH  
