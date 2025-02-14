@@ -1,3 +1,32 @@
+# 2025-02-14
+
+## DOGE
+
+Website is not secure  
+https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/ | https://archive.md/wy1Wt | https://web.archive.org/web/20250214064422/https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/  
+> One coder added at least two database entries that are visible on the live site and say “this is a joke of a .gov site” and “THESE ‘EXPERTS’ LEFT THEIR DATABASE OPEN -roro.” 
+
+## HHS
+
+Mass firings planned now  
+https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/ | https://archive.md/Y9zsp  
+> Senior officials were informed in meetings Friday morning that roughly 5,200 people on probationary employment — recent hires — across agencies including the National Institutes of Health and the Centers for Disease Control and Prevention will be fired that afternoon, according to sources briefed on the meetings. CDC leadership was told the Atlanta-based agency would lose about 1,300 workers. The numbers at the NIH are not clear, but exceptions are being made for certain probationary employees, according to a memo viewed by STAT.  
+> The workers will be given a month’s paid leave but lose access to work systems by the end of Friday, according to sources.
+
+
+
+## Commentary
+
+Harold Varmus OpEd  
+https://www.nytimes.com/2025/02/14/opinion/trump-public-health-funding-nih.html | https://archive.md/gWeC6  
+> Perhaps what’s most disheartening is what feels like the absence of widespread opposition to this unraveling. Thankfully, in a few situations, judges have stepped in, but there have not been the kinds of public demonstrations in support of science that occurred, with less provocation, in Mr. Trump’s first term. Industries reliant on new scientific discoveries to maintain their global market share have largely remained quiet. Republican members of Congress, even those who have typically supported federally financed science, have been subservient to party directives.
+
+Walensky & Walensky in JAMA  
+https://jamanetwork.com/journals/jama/article-abstract/2830566 | https://archive.md/O6Dhg  
+> US Science in Peril
+
+
+
 # 2025-02-13  
 
 ## Commentary  
@@ -5,6 +34,29 @@
 Christina Pagel's categorisation of Trump's actions  
 https://christinapagel.substack.com/p/so-this-is-how-liberty-dies-making
 
+How Trump’s Directives Echo Project 2025  
+https://www.nytimes.com/interactive/2025/02/14/us/politics/project-2025-trump-actions.html | https://archive.md/KnfYY 
+
+
+## NIH
+
+Lauer retires as well 
+https://www.science.org/content/article/senior-nih-official-who-helped-lead-high-profile-china-and-sexual-harassment | https://archive.md/F2jbP  
+
+## CDC  
+
+No communication with WHO on influenza  
+https://tinalexander.github.io/notes/2025/02#comments-from-who-press-briefing-on-us | https://archive.md/DDSOp#selection-639.0-639.140  
+> [MVK] And we have not had direct communication, with CDC related to influenza, we are communicating with them, but we haven’t heard anything back.
+
+
+## Other 
+
+Renewed campaign at Royal Society to remove Musk, and second resignation  
+https://www.nature.com/articles/d41586-025-00486-5 | https://archive.md/cH9xA  
+
+Mass firings at multiple agencies  
+But not specific news article on this yet, only posts on Bsky
 
 # 2025-02-12
 
@@ -67,6 +119,11 @@ https://www.yahoo.com/news/trump-revokes-80-million-nyc-180300223.html | https:/
 The waste.gov website temporarily used a default Wordpress template with the word "diversity"  
 https://web.archive.org/web/20250211231438/https://waste.gov/  
 From https://bsky.app/profile/jasonkoebler.bsky.social/post/3lhylqdmyv222 | https://archive.md/ijlnA  
+
+
+Unexpected consequence of WHO withdrawal: management and inspection of smallpox labs  
+https://www.nytimes.com/2025/02/12/health/smallpox-who-cdc-bioweapons.html | https://archive.md/Gnqhv   
+> Health experts warn that Mr. Trump’s exit from international oversight could end Washington’s ability to scrutinize Moscow’s smallpox cache. “If we want to inspect the Russian lab,” Dr. Frieden said, “we need to be part of W.H.O.”
 
 
 # 2025-02-11
