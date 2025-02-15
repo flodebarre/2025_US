@@ -1,3 +1,27 @@
+# 2025-02-15 
+
+## DOGE  
+
+DOGE playbook for DEI  
+https://www.washingtonpost.com/politics/interactive/2025/doge-playbook-dei-trump/ | https://archive.md/jX5QV
+
+DOGE/Musk and Reuters  
+https://www.washingtonpost.com/technology/2025/02/15/musk-doge-deception-reuters/ | https://archive.md/e5anC
+> Musk accused Reuters of ‘social deception.’ The deception was his.  
+> Trump’s DOGE chief mischaracterizes a contract as he marshals “deep state” conspiracy theories to justify cuts to federal agencies.
+
+## USAID  
+
+Memo 
+https://newrepublic.com/article/191578/trump-musk-scandal-usaid-leaked-memo | https://archive.md/siaRY  
+> A new internal memo circulating inside the U.S. Agency for International Development neatly captures this split. The Washington Post reports that the memo warns USAID employees not to communicate with the press about the shocking disruptions in humanitarian assistance that are being caused by the Trump-Musk attack on the agency, which are already producing horrific consequences. The memo said this transgression might be met with “dismissal.”  
+
+
+## Resisting  
+
+Press drawing linking to Tian An Men 
+https://bsky.app/profile/mweinstock.bsky.social/post/3li7twomgac2f | https://archive.md/FPaYP  
+
 # 2025-02-14
 
 ## DOGE
@@ -6,6 +30,33 @@ Website is not secure
 https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/ | https://archive.md/wy1Wt | https://web.archive.org/web/20250214064422/https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/  
 > One coder added at least two database entries that are visible on the live site and say “this is a joke of a .gov site” and “THESE ‘EXPERTS’ LEFT THEIR DATABASE OPEN -roro.” 
 
+Contents of DEI.gov captured by a researcher before hidden behind pwd  
+https://www.404media.co/dei-waste-gov-doge-list-behind-password/ | https://archive.md/qZy9L
+
+DOGE and FOIA  
+https://www.bloomberg.com/news/newsletters/2025-02-14/elon-musk-s-doge-wants-to-be-notified-about-foias?srnd=undefined | https://archive.md/4aWjx
+> Elon Musk’s DOGE Wants to Be Notified About Any Requests for Oversight  
+> The government efficiency group also wants to be notified when there’s any attempt at oversight from Congress, inspectors general, even the Government Accountability Office. 
+
+
+## DOE
+
+Trump officials fired nuclear staff not realizing they oversee the country’s weapons stockpile, sources say  
+https://edition.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html?cid=ios_app | https://archive.md/9q8G8   
+> Sources told CNN the officials did not seem to know this agency oversees America’s nuclear weapons.  
+[...]  
+> It also included employees at NNSA headquarters who write requirements and guidelines for contractors who build nuclear weapons. A source told CNN they believe these individuals were fired because “no one has taken anytime to understand what we do and the importance of our work to the nation’s national security.”  
+
+## CDC data
+
+https://www.statnews.com/2025/02/14/tracking-cdc-data-changes-trump-executive-order-targets-gender/ | https://archive.md/IIZst  
+> STAT is backing up and monitoring CDC data in real time: See what’s changing
+
+Court order to restore data  
+https://www.404media.co/trump-admin-adds-note-rejecting-gender-ideology-on-sites-court-ordered-them-to-restore/ | https://archive.md/Ky7lH  
+Pages are now showing a warning
+
+
 ## HHS
 
 Mass firings planned now  
@@ -13,7 +64,15 @@ https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first
 > Senior officials were informed in meetings Friday morning that roughly 5,200 people on probationary employment — recent hires — across agencies including the National Institutes of Health and the Centers for Disease Control and Prevention will be fired that afternoon, according to sources briefed on the meetings. CDC leadership was told the Atlanta-based agency would lose about 1,300 workers. The numbers at the NIH are not clear, but exceptions are being made for certain probationary employees, according to a memo viewed by STAT.  
 > The workers will be given a month’s paid leave but lose access to work systems by the end of Friday, according to sources.
 
+Mass firings at CDC, NIH -- including Epidemic Intelligence Service  
+https://www.science.org/content/article/wrecking-ball-rfk-jr-moves-fire-thousands-health-agency-employees | https://archive.md/JoxZO  
+> At the U.S. National Institutes of Health (NIH), where institute directors were hastily summoned to a meeting this morning to alert them of the imminent firings, some 1500 employees were initially scheduled to be let go; at the Centers for Disease Control and Prevention (CDC) the number was 1269.  
+[...]  
+> At CDC, many of the 50 or so members of the first year class of the Epidemic Intelligence Service—the agency’s prestigious “disease detective” training program for young epidemiologists—were notified they would be terminated. Three division directors in the National Center for Emerging and Zoonotic Infectious Diseases, a key front in pandemic prevention, were also on a list of targeted employees.  
 
+Renee Wegrzyn fired from ARPA-H  
+https://www.linkedin.com/posts/renee-wegrzyn-ba00643_it-has-been-the-honor-of-my-career-to-serve-activity-7296230392951459841-fuzn/ |  https://archive.md/jzlxK  
+ 
 
 ## Commentary
 
@@ -57,6 +116,10 @@ https://www.nature.com/articles/d41586-025-00486-5 | https://archive.md/cH9xA
 
 Mass firings at multiple agencies  
 But not specific news article on this yet, only posts on Bsky
+
+Science Trump tracker 
+https://www.science.org/content/article/science-trump-latest-news 
+
 
 # 2025-02-12
 
