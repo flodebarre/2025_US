@@ -1,3 +1,17 @@
+# 2025-02-16 
+
+## DOGE
+
+What motivates Gavin Kliger  
+Cites Our American Prava, Ron Unz -- far right Holocaust denier  
+https://bsky.app/profile/twlldun.bsky.social/post/3lic2x56dvk24 | https://archive.md/NA13a
+
+
+## FDA  
+
+https://bsky.app/profile/marisakabas.bsky.social/post/3lib2kb7xds2i | https://archive.md/thc21  
+> The Food & Drug Administration (FDA), an agency that falls under RFK Jr.’s purview, just mass fired probationary employees via an email
+
 # 2025-02-15 
 
 ## DOGE  
@@ -21,6 +35,10 @@ https://newrepublic.com/article/191578/trump-musk-scandal-usaid-leaked-memo | ht
 
 Press drawing linking to Tian An Men 
 https://bsky.app/profile/mweinstock.bsky.social/post/3li7twomgac2f | https://archive.md/FPaYP  
+
+Reddit megathread on fired public servants  
+https://www.reddit.com/r/fednews/comments/1ippdo2/megathread_2025_valentines_probationary_purge/
+
 
 # 2025-02-14
 
