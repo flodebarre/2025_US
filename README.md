@@ -10,6 +10,10 @@ https://www.nytimes.com/2025/02/18/us/politics/fda-cdc-health-department-trump.h
 > Trump Cuts Target Next Generation of Scientists and Public Health Leaders
  
 
+## OPM 
+
+Firings at OPM include FOIA team  
+https://edition.cnn.com/2025/02/18/politics/opm-privacy-team-fired/index.html | https://archive.md/SUyT4  
 
 ## Commentary 
 
@@ -48,6 +52,13 @@ https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data
 
 https://zeteo.com/p/trump-monarchy-presidency-article-2-explained | https://archive.md/JoIOB  
 > Trump Wants a Monarchy, Not a Presidency. He Must Be Stopped
+
+
+On the legality (or not) of Musk's job  
+https://www.motherjones.com/politics/2025/02/elon-musk-doge-special-government-employee/ | https://archive.md/YLvgP  
+> There’s No Way Elon Musk’s Job is Legal
+
+
 
 # 2025-02-16 
 
