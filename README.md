@@ -1,3 +1,54 @@
+> [!WARNING]  
+> I am not including links to geopolitical events (e.g. tariffs, or invasion threats), which are mostly well-covered in the media.  
+
+
+# 2025-02-18 
+
+## HHS cuts  
+
+https://www.nytimes.com/2025/02/18/us/politics/fda-cdc-health-department-trump.html | https://archive.md/rSuAo  
+> Trump Cuts Target Next Generation of Scientists and Public Health Leaders
+ 
+
+
+## Commentary 
+
+
+Watters contrasts media strategies between the left and the right  
+https://bsky.app/profile/acyn.bsky.social/post/3lifsb3i4mp2c 
+
+https://bsky.app/profile/kakape.bsky.social/post/3lihl7bmq322u  
+> In meinem Vortrag in Heidelberg am Ende meiner Gastprofessur habe ich auch genau hierüber gesprochen: Das Erfolgsrezept des rechten Informationsökosystems in den USA ist Misinformation als eine Art Mitmach-Improv-Theater. Hier erklärt es Jesse Watters selbst auf Fox News...
+
+https://www.cip.uw.edu/2024/12/04/right-wing-media-improv-theater/
+> How right-wing media is like improv theater
+
+
+
+
+# 2025-02-17
+
+## DOGE  
+
+Following lawsuit, claim that Musk is not the leader of DOGE  
+https://www.politico.com/news/2025/02/17/doge-administrator-elon-musk-00204639 | https://archive.md/pwOPZ
+
+## Social security  
+
+https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/ | https://archive.md/UD0Sz  
+> Top Social Security official exits after clash with Musk’s DOGE over data  
+> Yet another top career staffer is leaving the administration amid a disagreement over a request by Elon Musk’s team for sensitive government information.
+
+## IRS 
+
+DOGE seeks access to IRS  
+https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/ | https://archive.md/UbIzm
+
+## Commentary 
+
+https://zeteo.com/p/trump-monarchy-presidency-article-2-explained | https://archive.md/JoIOB  
+> Trump Wants a Monarchy, Not a Presidency. He Must Be Stopped
+
 # 2025-02-16 
 
 ## DOGE
@@ -11,6 +62,11 @@ https://bsky.app/profile/twlldun.bsky.social/post/3lic2x56dvk24 | https://archiv
 
 https://bsky.app/profile/marisakabas.bsky.social/post/3lib2kb7xds2i | https://archive.md/thc21  
 > The Food & Drug Administration (FDA), an agency that falls under RFK Jr.’s purview, just mass fired probationary employees via an email
+
+## CDC  
+
+Removal of flu vaccine information  
+https://bsky.app/profile/crampell.bsky.social/post/3licr3yinlc2o | https://archive.md/r9yK5
 
 # 2025-02-15 
 
@@ -91,6 +147,11 @@ https://www.science.org/content/article/wrecking-ball-rfk-jr-moves-fire-thousand
 Renee Wegrzyn fired from ARPA-H  
 https://www.linkedin.com/posts/renee-wegrzyn-ba00643_it-has-been-the-honor-of-my-career-to-serve-activity-7296230392951459841-fuzn/ |  https://archive.md/jzlxK  
  
+## EPA 
+
+https://www.nature.com/articles/d41586-025-00491-8 | https://archive.md/TZQOM   
+> Termination notices for probationary employees started going out today at the EPA as the Trump administration accelerated efforts to fire this category of worker across the federal government.  
+
 
 ## Commentary
 
