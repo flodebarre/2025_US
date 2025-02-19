@@ -4,16 +4,90 @@
 
 # 2025-02-18 
 
-## HHS cuts  
+## NSF firings 
 
+https://www.wired.com/story/national-science-foundation-february-2025-firings/ | https://archive.md/qz6ML  
+> National Science Foundation Fires 168 Workers as Federal Purge Continues  
+> Firings at the NSF included permanent employees who had already completed their one-year probationary period, as well as at-will workers.
+
+NPR version  
+https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce | https://archive.md/F4AJr  
+> Several fired NSF employees who spoke to NPR were permanent hires, but reclassified as probationary despite having completed their year-long probationary period. They said that the reclassification happened in January, without explanation, at the direction of the White House Office of Personnel Management.
+
+Note on "probationary"  
+https://bsky.app/profile/rachelmcohen.bsky.social/post/3lii7kqhag22i | https://archive.md/cTU6A     
+> i think it has not sunk in for people, including newspaper headline writers, that "probationary" employees does not just mean like, young novice staffers right out of college, but those who have received promotions in the last year
+
+
+GovExec version  
+https://www.govexec.com/workforce/2025/02/168-employees-fired-national-science-foundation/403071/ | https://archive.md/7Xd6w  
+> “Panch has been conveniently absent throughout this whole time,” said an internal email an NSF worker sent to staffers obtained by Nextgov/FCW.  
+ 
+
+## USDA 
+
+USDA employee working on bird flu were accidentally fired  
+https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716 | https://archive.md/FBFR0  
+> USDA accidentally fired officials working on bird flu and is now trying to rehire them
+
+
+## HHS  
+
+
+### Cuts  
 https://www.nytimes.com/2025/02/18/us/politics/fda-cdc-health-department-trump.html | https://archive.md/rSuAo  
 > Trump Cuts Target Next Generation of Scientists and Public Health Leaders
+
+### Tests  
+
+-  Covid tests to be destroyed  
+https://www.washingtonpost.com/health/2025/02/18/trump-administration-covid-tests-stockpile/ | https://archive.md/lH4zV  
+> U.S. weighs destroying $500 million in stockpiled covid tests  
+> The government is reviewing proposals to shut down the program that ships free covid tests to American households and is considering destroying 160 million tests.
+
+-  Decision reversed  
+https://bsky.app/profile/lenasun.bsky.social/post/3liitt353wk25 | https://archive.md/lfdb8  
+
+ 
+## Notify
+
+Thomas Shedd requested root access to Notify.gov  
+https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/ | https://archive.md/VUrqc    
+> A worker at the General Services Administration told colleagues in a Slack message Tuesday that they have resigned in protest after Elon Musk ally Thomas Shedd requested “admin/root access to all components of the Notify.gov system,” which is a government system used to send mass text messages to the public that contains information the worker said is highly sensitive and would give Shedd unilateral, private access to the personal data of members of the public.
  
 
 ## OPM 
 
 Firings at OPM include FOIA team  
 https://edition.cnn.com/2025/02/18/politics/opm-privacy-team-fired/index.html | https://archive.md/SUyT4  
+
+## DOGE  
+
+Biggest DOGE "saving" was in millions, not billions  
+https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html | https://archive.md/btyqh  
+> DOGE Claimed It Saved $8 Billion in One Contract. It Was Actually $8 Million.  
+> The biggest single line item on the website of Elon Musk’s cost-cutting team appears to include an error.
+
+AI bot created at DOGE  
+https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/ | https://archive.md/oN3yl    
+> A senior Elon Musk staffer has created a custom AI chatbot that purports to help the Department of Government Efficiency eliminate government waste and is powered by Musk’s artificial intelligence company xAI, TechCrunch has learned.  
+[...]  
+> It’s not clear if the chatbot is experimental or has been used by DOGE as part of its unprecedented cost-cutting efforts across the U.S. government, which have raised legal and privacy concerns.  
+
+
+## CZI 
+
+Chan Zuckerberg initiative stops Science Diversity Leadership Awards  
+https://bsky.app/profile/cate-cholamine.bsky.social/post/3liiljlhnjk2f | https://archive.md/Zjyut
+
+## Court cases
+
+Court case on details of biology of sex  
+https://bsky.app/profile/aridrennen.bsky.social/post/3liimmetxxx26 | https://archive.md/8K2wU    
+ALT:   
+> A screenshot of a text excerpt from a court proceeding, showing a conversation between Judge Reyes and Jason C. Lynch about an executive order that defines “sex” strictly as male or female. Judge Reyes challenges this definition, noting that there are roughly 30 different intersex variations and citing examples such as XXX chromosomes, androgen insensitivity, and five-alpha reductase deficiency. Judge Reyes emphasizes that not everyone fits neatly into an XX or XY pattern, concluding that the executive order’s premise—that there are only two sexes—is biologically incorrect.
+
+
 
 ## Commentary 
 
@@ -27,6 +101,10 @@ https://bsky.app/profile/kakape.bsky.social/post/3lihl7bmq322u
 https://www.cip.uw.edu/2024/12/04/right-wing-media-improv-theater/
 > How right-wing media is like improv theater
 
+## Nicer news... 
+
+Nice signs near CDC  
+https://bsky.app/profile/drm.bsky.social/post/3liini6np5k2p
 
 
 
@@ -48,6 +126,11 @@ https://www.washingtonpost.com/politics/2025/02/17/doge-social-security-musk/ | 
 DOGE seeks access to IRS  
 https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/ | https://archive.md/UbIzm
 
+## DHS  
+
+https://www.nbcnews.com/politics/national-security/department-homeland-security-preparing-fire-100s-leaders-rcna192493 | https://archive.md/GavGX   
+> Department of Homeland Security preparing to fire hundreds of senior leaders this week
+
 ## Commentary 
 
 https://zeteo.com/p/trump-monarchy-presidency-article-2-explained | https://archive.md/JoIOB  
@@ -57,6 +140,8 @@ https://zeteo.com/p/trump-monarchy-presidency-article-2-explained | https://arch
 On the legality (or not) of Musk's job  
 https://www.motherjones.com/politics/2025/02/elon-musk-doge-special-government-employee/ | https://archive.md/YLvgP  
 > There’s No Way Elon Musk’s Job is Legal
+
+
 
 
 
