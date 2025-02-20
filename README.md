@@ -2,7 +2,52 @@
 > I am not including links to geopolitical events (e.g. tariffs, or invasion threats), which are mostly well-covered in the media.  
 
 
+
+# 2025-02-19  
+
+## SSA 
+
+https://bsky.app/profile/marisakabas.bsky.social/post/3lijwq5zmdk2o | https://archive.md/q4J1v  
+> New—Social Security Administration (SSA) Commissioner stepped down bc she wouldn't comply w/ DOGE. Lower-level staffer Leland Dudek replaced her.  
+> In a now-deleted LinkedIn post (pre-promotion) shared w/ me, he said he was placed on admin leave bc he "circumvented the chain of command" to help DOGE.
+ 
+https://bsky.app/profile/marisakabas.bsky.social/post/3lilgqobnfk2v | https://archive.md/cttRN  
+> Musk confirms my reporting
+
+## State Department
+
+Forced to cancel newspapers subscriptions  
+https://bsky.app/profile/davekeating.bsky.social/post/3lijz7s3gcc2x | https://archive.md/pXIhN  
+
+
+
+## DOGE  
+
+Receipts do not add up  
+https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts | https://archive.md/2SkG3
+
+Access to CISA data  
+https://bsky.app/profile/marisakabas.bsky.social/post/3likvr2lzjk2k | https://archive.md/sjpL1   
+> New — Edward "Big Balls" Coristine of DOGE now has digital access to the Cybersecurity and Infrastructure Security Agency (CISA), an agency source has confirmed to me.  
+
+
+DOGE has "God mode" access to government data  
+https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/ | https://archive.md/Oa42l
+
+DOGE cuts 9/11 survival fund  
+https://www.nytimes.com/2025/02/19/nyregion/doge-ground-zero-health-care-cuts.html?smid=bs-share | https://archive.md/Xo6FT
+
+## FAA  
+
+SpaceX engineers are already working at FAA  
+https://www.wired.com/story/faa-doge-elon-musk-space-x/ | https://archive.md/sVJ7m
+
 # 2025-02-18 
+
+## White House ASMR  
+
+"ASMR" video of chains on immigrants being deported  
+https://x.com/WhiteHouse/status/1891922058415603980 | https://archive.ph/ArCKm  
 
 ## NSF firings 
 
