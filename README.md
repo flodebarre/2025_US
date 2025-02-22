@@ -3,6 +3,131 @@
 
 
 
+# 2025-02-21
+
+## Army 
+
+Firings: mostly women and people of colour  
+https://edition.cnn.com/2025/02/21/politics/trump-fires-top-us-general-cq-brown/index.html | https://archive.md/SVLGr  
+> Trump has railed against what he called “woke” generals and officers, and Brown was a frequent target of right-wing criticism. 
+
+## DOGE 
+
+Coristine is grandson of former spy martyr  
+https://www.jacobsilverman.com/p/prominent-doge-staffer-is-grandson | https://archive.md/IJJPq  
+> Edward “Big Balls” Coristine happens to be the descendant of Valery Martynov, a KGB agent who spied for the US.
+
+
+Tom Krause's conflicts of interest  
+https://www.wired.com/story/krause-doge-cloud-software-treasury/ | https://archive.md/SKLQm  
+
+## NIH  
+
+Hearing on NIH and indirect costs  
+https://bsky.app/profile/maxkozlov.bsky.social/post/3lip43nbykc2a | https://archive.md/rkh5n  
+> The govt's lawyer says the policy would 'reallocate' indirect costs to fund more direct costs of new research.  
+> The judge then asks why the NIH tweeted that it would "save more than $4B a year".  
+> The post was a "misunderstanding," he said.
+
+Consequences of funding limitation on animals  
+https://www.science.org/content/article/death-ax-nih-payments-lawsuit-could-determine-fate-millions-research-animals | https://archive.md/JHrYG  
+> Rodent and monkey facilities imperiled by Trump plan to cut overhead payments
+
+
+## SSA 
+
+https://bsky.app/profile/marisakabas.bsky.social/post/3lipg3dpwek2b | https://archive.md/BBe30  
+> The Social Security Administration is dissolving its Office of Analytics Review and Oversight effective 2pm today
+
+
+## DOE
+
+On cuts at the National Nuclear Security Administration  
+https://www.thebulwark.com/p/inside-doges-dumbest-cut-yet | https://archive.md/L7pUC  
+
+## Other 
+
+Federal workers have a website against DOGE  
+https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge | https://archive.md/7b6xn  
+
+Website: https://www.wethebuilders.org/  
+https://archive.md/Ch25E
+
+
+DOGE firing people in team regulating autonomous vehicles  
+https://techcrunch.com/2025/02/21/elon-musks-doge-comes-for-agency-that-regulates-autonomous-vehicles/ | https://archive.md/EH01A  
+> Elon Musk’s Department of Government Efficiency is firing nearly half of a small government team that regulates autonomous vehicles, The Washington Post reported.
+
+
+
+## Resisting  
+
+PLOS statement  
+https://theplosblog.plos.org/2025/02/plos-statement-on-recent-us-executive-orders-and-scientific-integrity/ | https://archive.md/E28u7  
+
+# 2025-02-20
+
+
+## CIA 
+
+https://www.nytimes.com/2025/02/20/us/politics/cia-firings.html?smtyp=cur&smid=bsky-nytimes | https://archive.md/eOash  
+> C.I.A. Plans Largest Mass Firing in Nearly 50 Years  
+> The possible purge of officers working on recruiting and diversity comes as the agency moves to comply with the spirit of an executive order banning efforts to diversify the federal work force. 
+
+## IRS  
+
+ 
+https://apnews.com/article/irs-layoffs-trump-elon-musk-doge-df2b3c8d53ff9f2d276c8b29f8004dde | https://archive.md/8mm84  
+> IRS plans to lay off 7,000 probationary workers beginning Thursday, AP source says  
+
+## NSF 
+
+Details on the firings  
+https://www.politico.com/news/2025/02/20/inside-national-science-foundation-firings-00204763 | https://archive.md/bL5HJ  
+> NSF fired about 10 percent of its staff at the end of Tuesday, removing 168 people who included most of the agency’s probationary employees and all of its experts, a class of contract workers who are specialists in niche scientific fields.  
+> The agency didn’t have to fire its experts but decided to in the interest of fairness, a top NSF official told staffers in an emotionally charged hybrid meeting Tuesday morning at its Alexandria, Virginia, headquarters.   
+[...]   
+> Fired NSF staffers were instructed to stop working by 1 p.m. Tuesday, at which point they would be locked out of the agency’s computer network. They had until the end of the day to clean out their desks.
+
+## NAS scrubbing words  
+
+https://www.statnews.com/2025/02/20/national-academies-altering-pending-reports-to-appease-trump-administration-members-say/ | https://archive.md/YnyIw  
+> The National Academies of Science, Engineering, and Medicine is scrubbing pending reports of words such as “health equity,” “marginalized populations,” and “restorative justice” and replacing them with vaguer terms in an effort to appease the Trump administration, according to a letter protesting the actions sent to the organization’s leaders and obtained by STAT. 
+
+
+## Other 
+
+Canada won hockey match against the US  
+https://bsky.app/profile/bubbaprog.lol/post/3liny2n53g22a
+
+Musk unhappy with community notes  
+https://gizmodo.com/elon-musk-says-hell-fix-community-notes-on-x-after-it-disagreed-with-him-2000566212 | https://archive.md/u6KTy  
+> Elon Musk is not happy with Community Notes, the crowdsourced fact-checking program that adds notes to correct misinformation on his social media platform X. And the billionaire says he’s now going to “fix” Community Notes so that it agrees with him, claiming without evidence that it’s being manipulated by governments and the media.  
+>  >  “Unfortunately, @CommunityNotes is increasingly being gamed by governments & legacy media. Working to fix this,” Musk tweeted Thursday.
+
+
+Trump orders database on federal police misconduct to close  
+https://www.axios.com/2025/02/21/database-federal-police-misconduct-trump-deletes | https://archive.md/sq6Au  
+
+
+## Justice  
+
+Justice department and SpaceX  
+https://www.nytimes.com/2025/02/20/us/politics/spacex-elon-musk-discrimination-doj.html | https://archive.md/fVvZ1  
+> Justice Dept. to Drop Discrimination Case Against Elon Musk’s SpaceX  
+> The Justice Department had sued SpaceX in 2023, accusing the company of violating federal law by refusing to hire refugees and people granted asylum in the United States. 
+
+Trump Claims Power to Fire Administrative Law Judges at Will  
+https://www.nytimes.com/2025/02/20/us/politics/trump-power-administrative-law-judges.html | https://archive.md/0YIFi  
+ 
+
+## Commentary  
+
+
+https://www.theunpopulist.net/p/trumps-america-is-in-a-free-fallnot | https://archive.md/fGXtV  
+> Trump's America Is in a Free Fall—Not a Slippery Slope—to Tyranny
+
+ 
 # 2025-02-19  
 
 ## SSA 
@@ -20,7 +145,6 @@ Forced to cancel newspapers subscriptions
 https://bsky.app/profile/davekeating.bsky.social/post/3lijz7s3gcc2x | https://archive.md/pXIhN  
 
 
-
 ## DOGE  
 
 Receipts do not add up  
@@ -36,6 +160,16 @@ https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/6817
 
 DOGE cuts 9/11 survival fund  
 https://www.nytimes.com/2025/02/19/nyregion/doge-ground-zero-health-care-cuts.html?smid=bs-share | https://archive.md/Xo6FT
+
+## NIH  
+
+https://www.theatlantic.com/health/archive/2025/02/nih-indirect-cost-memo-hhs/681736/ | https://archive.md/ntUhC  
+> The NIH Memo That Undercut Universities Came Directly From Trump Officials  
+> NIH officials said they were given no advance warning and less than an hour to post the memo publicly.
+
+A resignation letter posted on LinkedIn   
+https://www.linkedin.com/posts/nathanielbrought_this-evening-i-did-something-that-would-have-activity-7297815508240793600-3UML/ | https://archive.md/WX2SS  
+
 
 ## FAA  
 
