@@ -1,6 +1,93 @@
 > [!WARNING]  
 > I am not including links to geopolitical events (e.g. tariffs, or invasion threats), which are mostly well-covered in the media.  
 
+# 2025-02-22
+
+## DOGE, Musk
+
+Musk announces email to all federal employees on X  
+https://x.com/elonmusk/status/1893386883444437415 | https://archive.ph/xNtXR  
+> Consistent with President @realDonaldTrump’s instructions, all federal employees will shortly receive an email requesting to understand what they got done last week.  
+>  
+> Failure to respond will be taken as a resignation.  
+
+Email received:  
+https://bsky.app/profile/chrisgeidner.bsky.social/post/3lisfqzy42s2w | https://archive.md/6r0xX  
+> 4:49 PM  
+> To: OPM_ALLEMPLOYEE_NOTIFICA... ›  
+> Reply To: HR@opm.gov >  
+> What did you do last week?  
+> Please reply to this email with approx. 5 bullets of what you accomplished last week and cc your manager.  
+> Please do not send any classified information, links, or attachments.  
+> Deadline is this Monday at 11:59pmEST.
+
+Reactions:  
+
+-  FBI:  
+Do not reply 
+https://bsky.app/profile/chrisgeidner.bsky.social/post/3lisvuxlrrc2g | https://archive.md/g9Af9    
+> MESSAGE FROM THE DIRECTOR  
+> All,  
+> FBI personnel may have received an email from OPM requesting information. The FBI, through the Office of the Director, is in charge of all of our review processes, and will conduct reviews in accordance with FBI procedures. When and if further information is required, we will coordinate the responses. For now, please pause any responses.  
+> Thank you,  
+> Kash Patel
+
+-  DoD (?)  
+https://bsky.app/profile/nationalsecuritylaw.org/post/3lisk7cnqik2v | https://archive.md/xnb6a  
+> Email from NAVSEA Executive Director with subject Please read: OPM Email Guidance and body  
+> All, We're seeing in the media and hearing from our team directly that civilian employees are receiving an email notification from OPM entitled, what did you do last week? The email requests employees respond with approx. 5 bullets of what you accomplished last week and cc your manager. We are also aware of the associated statement from Elon Musk on X stating that failure to respond will be taken as a resignation. At this time, if you have received this email, do not respond. We are awaiting DoD and DoN guidance and will send an update as soon as we know more. More to come. v/r Chris
+
+-  DoJ   
+https://bsky.app/profile/marisakabas.bsky.social/post/3lisuxs4yjs2u | https://archive.md/ndxAu  
+> From: The AAG for Administration   
+> 
+Subject: OPM's email entitled "What did you do last week"  
+>   
+> Dear Component Heads:   
+>   
+> It has come to my attention that many Department of Justice employees recently received an email from OPM (hr@opm.gov) instructing each of you to reply to the email with approximately 5 bullets of what you accomplished last week, and to copy your supervisor.  
+> 
+This is an official OPM email address and employees should be prepared to follow the instructions on Monday as requested but be advised that you should not respond with sensitive, confidential, or classified information. If I receive additional guidance or information, I will update you, as necessary.  
+
+
+-  State Department  
+https://bsky.app/profile/marisakabas.bsky.social/post/3liszbvwya22u | https://archive.md/2iMqq  
+> Colleagues,  
+>   
+> You may have received a message from the U.S. Office of Personnel Management requiring you submit five work-related accomplishments. The State Department will respond on behalf of the Department. No employee is obligated to report their activities outside of their Department chain of command.  
+> 
+> Thank you,  
+>   
+> Ambassador Tibor P. Nagy  
+> Performing the Duties of the Under Secretary for Management (M)
+
+
+
+-  Senator Tina Smith  
+https://bsky.app/profile/smith.senate.gov/post/3lislyqfi5k2h | https://archive.md/MrqAX  
+
+
+## NASA  
+
+Letters by Democrats indicates that DOGE is embedded in NASA  
+https://democrats-science.house.gov/imo/media/doc/SST%20RM%20Lofgren%20Foushee%20Sykes%20-%20Letter%20to%20Acting%20Administrator%20Petro%20-%20DOGE%20Follow-Up%20-%202.21.25.pdf 
+Source: [thread] https://bsky.app/profile/lorifreshwater.bsky.social/post/3lisrbnge7225 | https://archive.md/yfBP8  
+
+## Other  
+
+Other COIs
+
+Regulation  
+https://apnews.com/article/musk-trump-autonomous-selfdriving-doge-auto-safety-99b369c5e3ccd3e7c09b6951604b3a0a | https://archive.md/Pj1j7  
+> Elon Musk’s cost-cutting team is eliminating jobs at the vehicle safety agency that oversees Tesla and has launched investigations into deadly crashes involving his company’s cars.
+
+## Catch-up
+
+Russell Vought video, trauma  
+https://www.theguardian.com/us-news/2025/feb/10/who-is-russell-vought-trump-office-of-management-and-budget | https://archive.md/c5VEX
+> “We want the bureaucrats to be traumatically affected,” Vought said in a video revealed by ProPublica and the research group Documented in October. “When they wake up in the morning, we want them to not want to go to work, because they are increasingly viewed as the villains. We want their funding to be shut down … We want to put them in trauma.”
+
+
 
 
 # 2025-02-21
