@@ -1,6 +1,29 @@
 > [!WARNING]  
 > I am not including links to geopolitical events (e.g. tariffs, or invasion threats), which are mostly well-covered in the media.  
 
+# 2025-02-23
+
+## Pentagon
+
+Hegseth about 4-stars being fired: 
+https://bsky.app/profile/atrupar.com/post/3liu3tpbfhs2h | https://archive.md/GItMR     
+> Hegseth says firing of top military lawyers was about making sure "they don't exist to be roadblocks to anything that happens."  
+
+
+## DOGE 
+
+-  HHS asks employees to reply to the email  
+https://bsky.app/profile/samsteindc.bsky.social/post/3liuecoeswl2j | 
+
+-  NIH asks not to reply  
+https://bsky.app/profile/samsteindc.bsky.social/post/3liueeojrzs2e | 
+
+## Resisting  
+
+Statement by European Academies  
+https://allea.org/wp-content/uploads/2025/02/ALLEA-Statement-on-Threats-to-Academic-Freedom.pdf | 
+> The European Federation of Academies of Sciences and Humanities expresses grave concern over the escalating threats to academic freedom, both in the United States and beyond
+
 # 2025-02-22
 
 ## DOGE, Musk
